@@ -1,0 +1,25 @@
+#umCourses, #davisCourses, .footnotes-header {
+  display: none;
+}
+
+.mt {
+  margin-top: 10px;
+}
+
+.experience dt {
+  font-weight: normal;
+}
+
+.selfImage {
+  position: absolute;
+  right: 0;
+  top: 23px;
+}
+
+div.aboutBlurb {
+  padding-left: 0;
+}
+
+.mainContainer {
+  padding-bottom: 15px;
+}

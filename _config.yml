@@ -1,0 +1,2 @@
+baseurl: "/test" # the subpath of your site, e.g. /blog/
+markdown: kramdown
