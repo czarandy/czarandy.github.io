@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/paper/bootstrap.min.css" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/site.css" />
+    <title>Andrey Goder | {{page.title}}</title>
+  </head>
+  <body>
+    <div class="navbar navbar-default">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Andrey Goder</a>
+      </div>
+      <div class="navbar-collapse navbar-responsive-collapse">
+        <ul class="nav navbar-nav">
+          {% if page.title == 'About Me' %}
+            <li class="active"><a href="{{site.baseurl}}/">About Me</a></li>
+          {% else %}
+            <li><a href="{{site.baseurl}}/">About Me</a></li>
+          {% endif %}
+          {% if page.title == 'Quotes' %}
+            <li class="active"><a href="{{site.baseurl}}/quotes/">Quotes</a></li>
+          {% else %}
+            <li><a href="{{site.baseurl}}/quotes/">Quotes</a></li>
+          {% endif %}
+          {% if page.title == 'Poems' %}
+            <li class="active"><a href="{{site.baseurl}}/poems/">Poems</a></li>
+          {% else %}
+            <li><a href="{{site.baseurl}}/poems/">Poems</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+    <div class="container mainContainer">
