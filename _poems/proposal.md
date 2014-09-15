@@ -13,9 +13,9 @@ Over a face that smiles bright like the sun
 Unburdened grace your moves so artful
 My litte zor I love you like no one
 
-After the years we.ve spent together
+After the years we've spent together
 Roads have we travelled down and mountains crossed
-Rivers we.ve forded in the toughest weather
+Rivers we've forded in the toughest weather
 Yet with you never was I feeling lost
 
 May we continue hand in hand this journey
