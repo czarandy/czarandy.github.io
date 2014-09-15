@@ -24,7 +24,7 @@ This is a poem I wrote during my travails in AP English. It's got some issues wi
     I see
       It all and nothing more is hid
     The robin is of course just me
-    The gusts of wind.what is to be
+    The gusts of wind---what is to be
 
     Yet wait!
       Too far have I gone in

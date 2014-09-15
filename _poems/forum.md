@@ -4,7 +4,7 @@ title: The Forum
 year: 2003
 ---
 
-Here is another poem I wrote in high school. And there.s a good chance that high school was exactly what I was writing about.
+Here is another poem I wrote in high school. And there's a good chance that high school was exactly what I was writing about.
 
     When every word reeks of inanity
     And every phrase

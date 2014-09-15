@@ -12,7 +12,7 @@ year: 2004
     What is love to a bird?
     She sings a song so pure and sweet
     That we are swept clear off our feet
-    At the mere thought of what we.ve heard
+    At the mere thought of what we've heard
 
     What is love to the stars?
     They shine the light of million lives
