@@ -3,6 +3,7 @@ layout: poem
 title: Andy the Spy
 year: 1999
 ---
+Co-written with Corey Valdez.
 
     About nine years ago
     In a country across the sea

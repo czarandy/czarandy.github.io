@@ -37,3 +37,12 @@ div.aboutBlurb {
 .story .center {
   text-align: center;
 }
+
+.story div.thumbnail {
+  margin: 10px;
+}
+
+.story div.thumbnail.center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
