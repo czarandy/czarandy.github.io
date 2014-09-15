@@ -15,7 +15,7 @@ year: 2006
 
     Lo! Upon this starless night
               \ No treasure to be seen
-    I.ve walked through countless
+    I've walked through countless
                 \ Many cities of ruin
     Yet the only living soul
                   \ That I have yet to see

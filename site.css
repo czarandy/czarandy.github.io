@@ -23,3 +23,17 @@ div.aboutBlurb {
 .mainContainer {
   padding-bottom: 15px;
 }
+
+.story p {
+  text-indent: 1em;
+  margin: 0;
+}
+
+.story blockquote {
+  margin-bottom: 0;
+  font-size: inherit;
+}
+
+.story .center {
+  text-align: center;
+}

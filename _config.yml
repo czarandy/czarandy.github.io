@@ -5,3 +5,6 @@ collections:
   poems:
     title: Poems
     output: true
+  stories:
+    title: Stories
+    output: true

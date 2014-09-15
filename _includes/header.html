@@ -25,10 +25,15 @@
           {% else %}
             <li><a href="{{site.baseurl}}/quotes/">Quotes</a></li>
           {% endif %}
-          {% if page.title == 'Poems' %}
+          {% if page.title == 'Poems' or page.collection == 'poems' %}
             <li class="active"><a href="{{site.baseurl}}/poems/">Poems</a></li>
           {% else %}
             <li><a href="{{site.baseurl}}/poems/">Poems</a></li>
+          {% endif %}
+          {% if page.title == 'Stories' or page.collection == 'stories' %}
+            <li class="active"><a href="{{site.baseurl}}/stories/">Stories</a></li>
+          {% else %}
+            <li><a href="{{site.baseurl}}/stories/">Stories</a></li>
           {% endif %}
         </ul>
       </div>
