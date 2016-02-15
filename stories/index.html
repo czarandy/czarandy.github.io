@@ -6,7 +6,7 @@ title: Stories
   <div class="col-xs-12 col-lg-10">
     <h2>Stories</h2>
     <dl class="dl-horizontal">
-    {% assign stories = site.stories reversed %}
+    {% assign stories = site.stories | reverse %}
     {% assign prev_year = 0 %}
     {% for story in stories %}
     {% if prev_year != story.year %}
