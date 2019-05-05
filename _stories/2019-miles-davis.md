@@ -154,7 +154,7 @@ struggle be for nothing. "I won it," I said, "in a contest for musicians at my
 school. I guess they felt bad that I had to play on that beat-up old thing. I'm
 just glad it arrived in time for today."
 
-Mom seemed to by this explanation. She smiled. "That's amazing," she said. "I'm
+Mom seemed to buy this explanation. She smiled. "That's amazing," she said. "I'm
 even more excited to see you play today." She gave me the trumpet.
 
 As soon as it touched my fingers I felt an electric discharge. I knew
@@ -178,7 +178,7 @@ trumpet. It was very visible glowing now, even more than it had been this
 morning. I expected everyone around to turn and look at the source, but no one
 else seemed to notice. Still, to be cautious, I put it away again.
 
-A few minutes later it was time to being. Mr. Sharpe drew our names from a hat,
+A few minutes later it was time to begin. Mr. Sharpe drew our names from a hat,
 and as we were chosen we went up to the stage to play. There was a "recommended"
 time of three to five minutes for each performance but it was clear that every
 student was trying to skirt the bottom of that range. The first chosen was Ben,
@@ -245,13 +245,13 @@ As I approached the reflection of sunlight blinded me and I instantly knew what
 to do. I walked up to the edge, held the trumpet out at arm's length, and let
 go.
 
-When I got home, Mom was waiting for me. "I was thinkingâ€¦ I know that a good
+When I got home, Mom was waiting for me. "I was thinking... I know that a good
 trumpet is very expensive, but I want to support you. I wasn't sure before
 yesterday, butâ€¦"
 
 "No," I interrupted. "That was the end. No more music for me."
 
-"That's so sudden," she said. "But if you're sureâ€¦"
+"That's so sudden," she said. "But if you're sure..."
 
 "I am. Next year I'm going to join math club instead. And then maybe Lisa and I
 can go back to being friends."
