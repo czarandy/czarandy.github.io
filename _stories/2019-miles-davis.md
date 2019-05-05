@@ -263,7 +263,7 @@ been so wrapped up in your own music, you weren't even paying attention."
 
 But I didn't remember any of that.
 
-\* \* \*
+-------
 
 The next time I saw Lisa was ten years later. It was after I had finished high
 school with an unimpressive record. After I had gone to college to major in
