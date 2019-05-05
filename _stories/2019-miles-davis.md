@@ -247,7 +247,7 @@ go.
 
 When I got home, Mom was waiting for me. "I was thinking... I know that a good
 trumpet is very expensive, but I want to support you. I wasn't sure before
-yesterday, butâ€¦"
+yesterday, but..."
 
 "No," I interrupted. "That was the end. No more music for me."
 
