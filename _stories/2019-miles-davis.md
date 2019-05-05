@@ -302,7 +302,7 @@ for you--at that concert. I wasn't sure I had done the right thing."
 
 "What are you talking about?" I said.
 
-"I knew I couldn't live myself if you failed that class. I felt it was my fault
+"I knew I couldn't live with myself if you failed that class. I felt it was my fault
 you couldn't play well. It took all my savings and I had to borrow from my
 parents against my future allowance, but it was worth it. Buying you that
 trumpet was the best thing I did that whole year."
