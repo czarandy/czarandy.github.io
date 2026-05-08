@@ -1,15 +1,30 @@
-$('.toggleCourses').click(function(event) {
-  $($(this).attr('data-toggle')).show();
-  $(this).hide();
-  event.preventDefault();
+document.querySelectorAll('.toggleCourses').forEach(function(link) {
+  link.addEventListener('click', function(event) {
+    event.preventDefault();
+    document.querySelector(this.getAttribute('data-toggle')).style.display = 'block';
+    this.style.display = 'none';
+  });
 });
 
-$('.footnote').map(function(idx, el) {
-  $('.footnotes-header').show();
-  ++idx;
-  el = $(el);
-  var li = $('<li><a name="fn-idx"></li>'.replace('idx', idx)).append(el.clone());
-  $('.footnotes').append(li);
-  li.append(' [<a href="#ref-idx">&#8617;</a>]'.replace('idx', idx));
-  el.replaceWith('<sup><a name="ref-idx" href="#fn-idx">idx</a></sup>'.replace(/idx/g, idx));
+document.querySelectorAll('.footnote').forEach(function(el, idx) {
+  var num = idx + 1;
+  document.querySelector('.footnotes-header').style.display = 'block';
+  var li = document.createElement('li');
+  var anchor = document.createElement('a');
+  anchor.name = 'fn-' + num;
+  li.appendChild(anchor);
+  li.appendChild(el.cloneNode(true));
+  var backLink = document.createElement('a');
+  backLink.href = '#ref-' + num;
+  backLink.innerHTML = ' [↩]';
+  li.appendChild(backLink);
+  document.querySelector('.footnotes').appendChild(li);
+
+  var sup = document.createElement('sup');
+  var ref = document.createElement('a');
+  ref.name = 'ref-' + num;
+  ref.href = '#fn-' + num;
+  ref.textContent = num;
+  sup.appendChild(ref);
+  el.replaceWith(sup);
 });

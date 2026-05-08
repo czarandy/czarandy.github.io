@@ -8,6 +8,6 @@ collections:
   stories:
     title: Stories
     output: true
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
