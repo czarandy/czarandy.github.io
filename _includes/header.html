@@ -1,8 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="{{site.baseurl}}/favicon.svg" />
     <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/site.css" />
     <title>Andrey Goder | {{page.title}}</title>
   </head>
@@ -10,26 +11,18 @@
     <nav class="navbar">
       <a class="navbar-brand" href="#">Andrey Goder</a>
       <ul class="nav">
-        {% if page.title == 'About Me' %}
-        <li class="active"><a href="{{site.baseurl}}/">About Me</a></li>
-        {% else %}
-        <li><a href="{{site.baseurl}}/">About Me</a></li>
-        {% endif %} {% if page.title == 'Quotes' %}
-        <li class="active"><a href="{{site.baseurl}}/quotes/">Quotes</a></li>
-        {% else %}
-        <li><a href="{{site.baseurl}}/quotes/">Quotes</a></li>
-        {% endif %} {% if page.title == 'Poems' or page.collection == 'poems' %}
-        <li class="active"><a href="{{site.baseurl}}/poems/">Poems</a></li>
-        {% else %}
-        <li><a href="{{site.baseurl}}/poems/">Poems</a></li>
-        {% endif %} {% if page.title == 'Stories' or page.collection ==
-        'stories' %}
-        <li class="active"><a href="{{site.baseurl}}/stories/">Stories</a></li>
-        {% else %}
-        <li><a href="{{site.baseurl}}/stories/">Stories</a></li>
-        {% endif %}
+        <li {% if page.title == 'About Me' %}class="active"{% endif %}>
+          <a href="{{site.baseurl}}/">About Me</a>
+        </li>
+        <li {% if page.title == 'Quotes' %}class="active"{% endif %}>
+          <a href="{{site.baseurl}}/quotes/">Quotes</a>
+        </li>
+        <li {% if page.title == 'Poems' or page.collection == 'poems' %}class="active"{% endif %}>
+          <a href="{{site.baseurl}}/poems/">Poems</a>
+        </li>
+        <li {% if page.title == 'Stories' or page.collection == 'stories' %}class="active"{% endif %}>
+          <a href="{{site.baseurl}}/stories/">Stories</a>
+        </li>
       </ul>
     </nav>
-    <div class="container"></div>
-  </body>
-</html>
+    <div class="container">
