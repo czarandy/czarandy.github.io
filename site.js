@@ -11,7 +11,7 @@ document.querySelectorAll('.footnote').forEach(function(el, idx) {
   document.querySelector('.footnotes-header').style.display = 'block';
   var li = document.createElement('li');
   var anchor = document.createElement('a');
-  anchor.name = 'fn-' + num;
+  anchor.id = 'fn-' + num;
   li.appendChild(anchor);
   li.appendChild(el.cloneNode(true));
   var backLink = document.createElement('a');
@@ -22,7 +22,7 @@ document.querySelectorAll('.footnote').forEach(function(el, idx) {
 
   var sup = document.createElement('sup');
   var ref = document.createElement('a');
-  ref.name = 'ref-' + num;
+  ref.id = 'ref-' + num;
   ref.href = '#fn-' + num;
   ref.textContent = num;
   sup.appendChild(ref);

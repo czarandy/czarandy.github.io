@@ -1,4 +1,6 @@
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: Andrey Goder
+url: "https://www.andreygoder.com"
+baseurl: ""
 encoding: utf-8
 markdown: kramdown
 collections:

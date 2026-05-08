@@ -96,12 +96,11 @@ small {
 }
 
 .self-image img {
-  max-width: 100%;
+  width: 50%;
+  max-width: 200px;
   height: auto;
-  border: 1px solid #ddd;
-  padding: 4px;
-  border-radius: 4px;
   background: #fff;
+  border-radius: 50%;
 }
 
 .about-blurb {
@@ -109,8 +108,11 @@ small {
 }
 
 @media (max-width: 767px) {
+  .about-section {
+    flex-direction: column;
+  }
   .self-image {
-    display: none;
+    order: 0;
   }
 }
 
@@ -148,13 +150,14 @@ dl.dl-horizontal dd {
   margin-top: 10px;
 }
 
-/* Story / poem content */
+/* Story content */
 .story p {
   text-indent: 1em;
   margin: 0;
 }
 
-.story blockquote {
+.story blockquote,
+.poem blockquote {
   margin: 1em 0 0 1em;
   padding: 0 0 0 15px;
   border-left: 3px solid #e0e0e0;
