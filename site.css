@@ -20,7 +20,20 @@ a:hover {
   text-decoration: underline;
 }
 
-h2, h3, h6 {
+h1 {
+  font-size: 1.5em;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.25em;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1em;
   margin-top: 1.2em;
   margin-bottom: 0.5em;
 }
@@ -97,7 +110,7 @@ small {
 
 .self-image img {
   width: 50%;
-  max-width: 200px;
+  max-width: 280px;
   height: auto;
   background: #fff;
   border-radius: 50%;
@@ -235,6 +248,19 @@ blockquote footer {
 /* Footnotes */
 .footnotes-header {
   display: none;
+}
+
+.toggleCourses {
+  background: none;
+  border: none;
+  padding: 0;
+  color: #1565c0;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.toggleCourses:hover {
+  text-decoration: underline;
 }
 
 #umCourses, #davisCourses {
