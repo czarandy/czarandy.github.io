@@ -230,6 +230,12 @@ dl.dl-horizontal dd {
   text-align: center;
 }
 
+.envelope {
+  vertical-align: -3px;
+  height: 16px;
+  width: 16px;
+}
+
 /* Blockquote (outside .story) */
 blockquote {
   margin: 1em 0 1em 1em;

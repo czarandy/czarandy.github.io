@@ -12,4 +12,3 @@ collections:
     output: true
 plugins:
   - jekyll-sitemap
-  - jekyll-redirect-from
