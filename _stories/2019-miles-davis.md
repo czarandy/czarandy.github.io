@@ -3,6 +3,7 @@ title: Miles Davis and the Trumpet from Heaven
 year: 2019
 layout: story
 ---
+
 My love affair with Miles Davis started with a kiss. Of course I didn't actually
 kiss the legendary trumpeter myself (though that would have been an even better
 story), but rather my girlfriend, Lisa. I was fourteen and had just made it up
@@ -12,7 +13,7 @@ down next to me on the bed. We turned towards each other. At first I was too shy
 to look her in the eyes but there was something in those notes that just
 inspired me. So I went for it. As our lips touched, it felt like an explosion. I
 was sure that this must be what love feels like. But I was wrong--it was the just
-first notes of "The Buzzard Song" from Miles's rendition of *Porgy and Bess*.
+first notes of "The Buzzard Song" from Miles's rendition of _Porgy and Bess_.
 
 All of the energy of that song went into that kiss, and the next, and the next.
 By the time we stopped to breathe, Miles was halfway into "Summertime" and
@@ -25,14 +26,14 @@ than myself, no small order for the narcissist I was.
 The next day I felt compelled to go out and buy some of Miles's classics. My
 finances at the time were quite limited, but I was able to borrow fifty dollars
 from my parents, claiming I needed it for a project for music class. The rest of
-the weekend I spent wandering luscious sonic landscapes. *Kind of Blue* was
+the weekend I spent wandering luscious sonic landscapes. _Kind of Blue_ was
 understandably terrific, but I also enjoyed the darker recordings, particularly
-*In a Silent Way*. But how can I really compare such masterpieces?
+_In a Silent Way_. But how can I really compare such masterpieces?
 
 Lisa called me that evening wanting to meet, but I was able to deflect the
 attention with some claims about a school project. She was no jazz aficionado;
 indeed she didn't care much for it at all. But she was a true lover of Gershwin
-in general and *Porgy and Bess* in particular. Having exhausted all the standard
+in general and _Porgy and Bess_ in particular. Having exhausted all the standard
 renditions, she moved on to the jazz versions, starting off with Louis Armstrong
 and Ella Fitzgerald's. She had just discovered the magic of Miles's flugelhorns
 when I chanced upon her. It turned out well for my love of jazz, but not so much
@@ -111,7 +112,7 @@ And whatever happens, it's just a music class. It doesn't really matter in the
 big picture. This is what I told myself. But I didn't really believe that. It
 just seemed like something an outsider would say that had never felt as I did.
 
-I was about to put on *Kind of Blue* to help me fall asleep when I was struck
+I was about to put on _Kind of Blue_ to help me fall asleep when I was struck
 with an odd idea. I had never been at all religious, had never prayed or gone to
 church. But holding that CD with its beautiful album cover I felt compelled to
 call upon a force greater than just myself. Instead of placing it in my CD
@@ -183,7 +184,7 @@ and as we were chosen we went up to the stage to play. There was a "recommended"
 time of three to five minutes for each performance but it was clear that every
 student was trying to skirt the bottom of that range. The first chosen was Ben,
 a harpist who played a tolerably-good rendition of Donizetti's Harp solo from
-*Lucia di Lammermoor* but got only scattered applause (probably from his
+_Lucia di Lammermoor_ but got only scattered applause (probably from his
 parents). It seemed the crowd was especially hostile today.
 
 Second up was Lisa. She was already fairly popular at school, and even played
@@ -263,7 +264,7 @@ been so wrapped up in your own music, you weren't even paying attention."
 
 But I didn't remember any of that.
 
--------
+---
 
 The next time I saw Lisa was ten years later. It was after I had finished high
 school with an unimpressive record. After I had gone to college to major in

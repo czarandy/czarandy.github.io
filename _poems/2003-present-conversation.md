@@ -3,6 +3,7 @@ layout: poem
 title: A Present Conversation
 year: 2003
 ---
+
 This is a poem I wrote way back in high school. I must have been trying to use some of that French I "studied" for four years.
 
     "Comment ca va?"

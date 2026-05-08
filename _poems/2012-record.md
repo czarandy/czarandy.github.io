@@ -41,4 +41,3 @@ year: 2012
     They do not evoke any connections
     And leave no space for
       Poetic possibilities
-

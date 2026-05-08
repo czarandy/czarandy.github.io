@@ -23,4 +23,3 @@ year: 2004
     To match such beauty I can but try
     And stopping short along the way
     These words of love, to you I say
-

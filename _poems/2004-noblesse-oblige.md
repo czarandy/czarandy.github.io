@@ -18,4 +18,3 @@ title: Noblesse Oblige
     Whence we rose and returned from excessive rapport
       To our plated-steel windows and our triple-locked doors
       To hide midst illusions, just as before.
-

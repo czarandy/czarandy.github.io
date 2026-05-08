@@ -9,4 +9,3 @@ layout: poem
     Yet how we continue to deceive
     Ourselves, satisfied
     In the impending future.
-

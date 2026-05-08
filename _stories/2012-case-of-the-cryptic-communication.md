@@ -3,7 +3,8 @@ layout: story
 title: The Case of the Cryptic Communcation
 year: 2012
 ---
-###### *Wednesday, 12:23 PM*
+
+###### _Wednesday, 12:23 PM_
 
 Beth was having a very mediocre day. It was yet again one of those researchers. They just never seemed to follow the rules. While Beth was at the reference desk, he had been looking at the Chiang Kai-shek diaries and had tried to take a photo of one of the pages. This was something they explicitly didn't allow. When she confronted him, he claimed not to have known, though Beth thought that rather unlikely. They allowed taking notes, so there wasn't much advantage to making a copy. Unless you were lazy.
 
@@ -39,10 +40,7 @@ She was processing intently when an unusual noise startled her. It was the phone
 
 But then why had Adamek called her again?
 
-
-
-
-###### *Thursday, 12:04 PM*
+###### _Thursday, 12:04 PM_
 
 They sat together at the Arbuckle Cafe, Beth eating lasagna and Adamek a catfish po boy. Beth wondered when they would start to speak of whatever police matter she was intended to help with, but she was too nervous to bring it up. They ate in silence until Adamek began their conversation.
 
@@ -84,10 +82,7 @@ Apparently she was done. Beth thought about what she had said for a minute, but 
 
 Beth kept sitting at the table as Adamek walked away. And thought. About the uncertain future.
 
-
-
-
-###### *Friday, 11:27 AM*
+###### _Friday, 11:27 AM_
 
 Beth had spent the rest of Thursday watching intently for any sign of suspicious activity. She would surreptitiously leave her desk to walk around the archive, paying particular attention to all the researchers. But no one seemed to be acting strangely. It was all very disappointing, after the excitement of the conversation with Adamek. By Friday morning Beth had already become jaded with the whole thing, and went back to her usual nonchalance.
 
@@ -99,7 +94,7 @@ As they continued to run down the street, Beth suddenly thought about what she w
 
 But Beth was growing very tired now, and soon she'd lose him for good. She had to do something to gain time, and with no time to think she did the first thing that came into her mind. She took the only object she had available and threw it at the man. You couldn't call her aim unerrant, but it certainly wasn't so far off the mark as to be ignored. It flew by a few feet from him and smashed into a car window. The man looked over, surprised, as the car alarm started ringing. The car's door opened and an angry middle-aged driver stood up and, seeing the runner and thinking that he must be responsible, grabbed at him.
 
-The runner was moving so fast that he couldn't stop and he tripped over and fell forward onto the ground. The folder sailed off and landed in a muddy puddle. Beth had stopped to catch her breath, and she casually walked over. The driver was now helping him up, asking whether he had been hurt. Instead of answering, he turned, looked at Beth, looked at the folder in the puddle, and sprinted away. In that glance Beth thought there was something strangely familiar about him, but she knew that she had no chance of catching him now. At least he had left the document.  She picked it up carefully so as not to drip any more mud on her clothes and turned to walk back. The bemused driver came up to her holding something in his hand.
+The runner was moving so fast that he couldn't stop and he tripped over and fell forward onto the ground. The folder sailed off and landed in a muddy puddle. Beth had stopped to catch her breath, and she casually walked over. The driver was now helping him up, asking whether he had been hurt. Instead of answering, he turned, looked at Beth, looked at the folder in the puddle, and sprinted away. In that glance Beth thought there was something strangely familiar about him, but she knew that she had no chance of catching him now. At least he had left the document. She picked it up carefully so as not to drip any more mud on her clothes and turned to walk back. The bemused driver came up to her holding something in his hand.
 
 "He threw this at my car! What's this world coming to?" he said.
 
@@ -109,19 +104,15 @@ The runner was moving so fast that he couldn't stop and he tripped over and fell
 
 "That's for me," she said, and snatched her cellphone from his hand.
 
+###### _Friday, 1:13 PM_
 
+The call had been from Adamek. She had wanted to check with Beth in case anything had happened, but immediately drove over after Beth told her about the runner. After the detective arrived they looked together over the folder. Inside was a single mud-stained sheet, which looked to be a photocopy. The text appeared Chinese, though it was difficult to tell much more because of the damage. They might have just assumed it was, given who they were pursuing.
 
+"Do you have any idea what this is?" Adamek asked.
 
-###### *Friday, 1:13 PM*
+"No," Beth said, "I'm not that familiar with our Chinese collections and I don't speak Chinese. We might have better luck if I asked one of the other archivists."
 
-
-  The call had been from Adamek. She had wanted to check with Beth in case anything had happened, but immediately drove over after Beth told her about the runner. After the detective arrived they looked together over the folder. Inside was a single mud-stained sheet, which looked to be a photocopy. The text appeared Chinese, though it was difficult to tell much more because of the damage. They might have just assumed it was, given who they were pursuing.
-
-  "Do you have any idea what this is?" Adamek asked.
-
-  "No," Beth said, "I'm not that familiar with our Chinese collections and I don't speak Chinese. We might have better luck if I asked one of the other archivists."
-
-  Adamek thought it over. "I can't really involve any more civilians in this right now," she said. "I'm already worried I'll get too much heat for brining you on board."
+Adamek thought it over. "I can't really involve any more civilians in this right now," she said. "I'm already worried I'll get too much heat for brining you on board."
 
 "You mean my involvement isn't official?" Beth said, worried. Images of being taken into some dark cell for the rest of her life flashed through her head.
 
@@ -157,15 +148,11 @@ She immediately went outside to call Adamek. She told her about someone named .D
 
 "We'll have to take a look at the diaries. With the paper you found us and the diaries we should be able to find a match, though it might take some digging. Thanks for your help, yet again. I've had an analyst working on it for a few hours now, but he hadn't come up with anything yet. I imagine this will help."
 
+###### _Sunday, 4:50 PM_
 
+Beth hadn't heard from Adamek since their conversation on Friday. She would have thought that this would make her happy, but instead she couldn't stop thinking about what Chiang Kai-shek's diary contained. She knew that it was probably in more capable hands than hers. On the other hand, no one else had done much of anything in the case so far. And her curiosity was getting to be unbearable. She was still wondering why the agent needed a copy of the diary, rather than taking his own notes of the contents. She decided to give the detective a call.
 
-
-###### *Sunday, 4:50 PM*
-
-
-  Beth hadn't heard from Adamek since their conversation on Friday. She would have thought that this would make her happy, but instead she couldn't stop thinking about what Chiang Kai-shek's diary contained. She knew that it was probably in more capable hands than hers. On the other hand, no one else had done much of anything in the case so far. And her curiosity was getting to be unbearable. She was still wondering why the agent needed a copy of the diary, rather than taking his own notes of the contents. She decided to give the detective a call.
-
-  After a few short rings, Adamek picked up. Beth was actually taken aback, despite her bravado she didn't expect to reach her so easily. "I'm... just wondering... how the case is going?" she stammered. "Have you figured out what he wanted with the Chiang Kai-shek diary?"
+After a few short rings, Adamek picked up. Beth was actually taken aback, despite her bravado she didn't expect to reach her so easily. "I'm... just wondering... how the case is going?" she stammered. "Have you figured out what he wanted with the Chiang Kai-shek diary?"
 
 "We haven't actually," Beth heard Adamek sigh. "I've had a team looking over it since Friday with barely any breaks. They did find the page of the diary that matched the one you recovered. But it doesn't have anything overtly relevant. It's just a description of a normal day in his house. We've been trying to see if we can find some kind of code, but with no luck so far. Did you have something more for us?"
 
@@ -181,11 +168,7 @@ Beth heard only silence in response. Then there were some distant excited voices
 
 Beth wasn't sure what had happened. Had she helped them to figure out some secret, or just wasted the FBI's time?
 
-
-
-
-###### *Monday, 12:04 PM*
-
+###### _Monday, 12:04 PM_
 
 They had lunch again at the Arbuckle Cafe. Beth ate a bacon quiche, and Adamek roasted chicken with wild rice. The detective had surprised Beth with her visit, and she wasn't sure if it indicated success or failure in the case. As usual she didn't talk till they were done eating, even though Beth could sense she was really antsy to break some news to her.
 
@@ -218,5 +201,3 @@ Beth was stunned. "Working for the FBI. don't I have to be able to shoot a gun a
 "I will," Beth said. "My term at the Hoover ends next June, and I'll be looking for a job. And I have wanted to try my hand at something other than archival processing."
 
 "Great, I'll give you a call in a few months." Adamek said. She stood up and started to walk away. Before she had gone too far she turned around again. "Unless something more urgent arises," she said, and winked.
-
-

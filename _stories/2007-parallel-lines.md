@@ -3,8 +3,8 @@ title: Parallel Lines
 year: 2007
 layout: story
 ---
-Joseph Sylvestre woke up one morning to the satisfying sound of a car slowly driving away outside his third-floor apartment window. It was 11:30 AM. He cleverly chose a robe from the eight or so forming his bedroom floor, threw it on, and immediately checked his e-mail. Lo! He quickly found what he sought, and as a mysterious force began to play upon his heartstrings he read.
 
+Joseph Sylvestre woke up one morning to the satisfying sound of a car slowly driving away outside his third-floor apartment window. It was 11:30 AM. He cleverly chose a robe from the eight or so forming his bedroom floor, threw it on, and immediately checked his e-mail. Lo! He quickly found what he sought, and as a mysterious force began to play upon his heartstrings he read.
 
 > Dear Joe,
 >
@@ -13,19 +13,15 @@ Joseph Sylvestre woke up one morning to the satisfying sound of a car slowly dri
 > Your friend,
 > Leonard
 
-
 The last sentence was the instantiation of Joseph's most heartfelt desires. He immediately sent a reply to Leonard, noticed that he was characteristically tired, and decided to go back to sleep.
 
-
 <div class="center">* * *</div>
-
 
 Leonard Champagne returned home at the typically late hour of 9 PM. He was proud of his work but preferred to do it at unusual hours. Because of this skillful maneuvering, his bosses had continued to pay him no special notice. Leonard preferred it that way. What would he say if they invited him to a social dinner and asked him about his family? He didn't even have any friends to speak of, though he would never admit this.
 
 He turned his key softly in the lock to his apartment, and stepped in. As he expected, it was dark. Though he lived with a roommate, he couldn't recall the last time he had seen the poor fellow. Leonard knew he rarely went out, and suspected that he was alone in his room, most likely toying with his computer. While Leonard appreciated their worth as tools he would never admit to an unhealthy affection. He strolled across the stained burgundy carpet, turning on lights until the place felt homely.
 
 He was about to sit down with a glass of beer as he suddenly had a thought. Joseph! Though he was hesitant to admit it, the man was his only friend. Leonard went to check his e-mail, and couldn't resist a smile when he saw that one had arrived. It read
-
 
 > Hi Leonard,
 >
@@ -77,4 +73,3 @@ Finally, the receptionist asked him to come to Dr. Gravner's room. Leonard took 
 The doctor's expression quickly turned to horror.
 
 "Joseph, I think you're going to have to see me for a lot longer than a few weeks," he said.
-

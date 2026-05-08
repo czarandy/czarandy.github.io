@@ -29,4 +29,3 @@ year: 2003
     But only now do I realize that
     These are just words they say,
     As love falls apart.
-

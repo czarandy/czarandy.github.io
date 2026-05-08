@@ -4,7 +4,6 @@ title: Poland Journal
 layout: story
 ---
 
-
 #### Day 1: The Flight
 
 Having to wake up at 6:30 AM for my annoyingly early 9:00 AM flight to Warsaw (through New York), I arrived at the airport on time, which is to say I had about an hour left before the flight would leave. Fortunately, United has an inordinate amount of check-in booths, San Francisco being one of its major hubs and all, and so that part didn't take long. I also escaped one of those infamous "hour plus"-long security checkpoint lines (although several times in the past I have not been so lucky). I even managed to grab a tuna sandwich and requisite Diet Coke before showing third-to-last to board the plane.
@@ -18,7 +17,6 @@ During the eight-hour-long flight, I managed to seat myself next to two young gi
 For some reason, whenever a Russian plane lands, every passenger onboard applauds vehemently, as if they had expected it to crash. Interestingly enough, a significant portion of the Polish plane did the same, though not as many. I don't really understand this custom. It isn't done in any other countries as far as I know (probably the other former Soviet ones as well). And it isn't as if Russian planes crash more often (they have had no crashes on international flights). Weird--anyway...
 
 The airport proved to be very reminiscent of Sheremetevo, in Moscow, i.e. old, drab, and dirty. Fortunately the lines were shorter (though maybe because I conveniently sat almost at the very front of the plane and so was one of the first off). I got my stuff and proceeded to leave through an ominously-unguarded "green" customs gate. Of course by this time it was already Tuesday, which is technically "day two". Please accept my apologies for mentioning it here.
-
 
 #### Day 2: Warsaw
 
@@ -41,8 +39,6 @@ Just a tidbit: in the 1984 European Championship, Michel Platini (of the French)
 One thing to notice in the Old Town is the plethora of restaurants, with delightfully sounding menus. Since we had eaten before, I didn't get a chance to sample their food, but it did bring up the question of the idiocy of not eating in other of these fine establishments, especially the ones with the beautiful view over a little valley (someone must prefer the look of a diner). The city itself is very green, which I was surprised to find. Trees dot all of its streets and there are dozens of flowers growing on them. It gives the city a very nice, relaxing feel, and makes it much more pleasant than, say, Manhattan. We only spent an hour and a half in the Old Town, and by that time I was ready to collapse into bed.
 
 I came back to the hotel, hoping to catch one of the night's Euro 2004 soccer matches. Eurosport decided that showing boxing was a much more important exercise, and the only channel that had a match was in German and had an extremely fuzzy picture, such that I couldn't understand what the announcers were saying and I could only make out a large field of green with random colors blurring within it. I fell asleep, the day ending early for me.
-
-
 
 #### Day 3: Cracow by Train
 
@@ -74,8 +70,6 @@ We went home, and gathered together for a late-night snack/drink. I had some cog
 
 After that, I played SMAC for two hours, then went to sleep around one.
 
-
-
 #### Day 4: Exploring Cracow
 
 After my first night in this hotel, I determined that it had awful beds. The prior hotel had nice fluffy pillows and blankets, and sheets that were at least soft. This one had flat, cotton blankets and pillows, and rough sheets that made sleeping rather unpleasant. Fortunately for me, I went to bed late, so I was sleepy enough at the time that I was able to fall asleep without much trouble.
@@ -101,7 +95,6 @@ We left the restaurant and took a more normal route back to Cracow. Since I woul
 After a brief stop at the hotel, I decided to go to a bar to watch the night's soccer match, with my pet team England against the host team, Portugal. Consulting my guide book, I found that the nearby Sheraton hotel had a nice bar, that sounded like it would have people who at least spoke English, a prime requirement of mine for any bar. I left to walk there, although I found that Cracow was far smaller than I had previously imagined while driving through it. It took me about fifteen minutes to get there, while I allotted thirty, in which time I could have probably crossed its entire center. With my extra time I went back to the Wawel, and sat on the grass watching people. This was a popular date spot, and over half of the people there were couples, strolling, talking, in the joyous raptures of love. There was also a group of teens who were yelling what I can only assume are insults in Polish at a group of American tourists nearby. I distanced myself from them, fearing that I would be caught up in the verbal abuse.
 
 Then it was off to the bar. It was a typical American-style affair. I sat down at a table next to two British chaps (in Britain there are no people, just chaps) and ordered a ridiculously large amount of food. I had nachos (with sour cream, guacamole, cheese, and peppers) and a burger with fries. The nachos were fairly good, but the burger had a dry, overcooked bun. The rest of it was good though. This being a bar, I had my fair share of Heineken. Throughout all this I watched the soccer match. England did not play very well at all, although they had a lucky, amusing goal in the third minute. Their rising star, Wayne Rooney was injured throughout the game, and after that they kind of mellowed out. In the end it was a 2-2 draw and England lost 6-5 on penalty kicks. England always loses on penalty kicks. I don't think they have ever won on penalty kicks. Bah. Still, the night was fun, and I got home around midnight, watched the celebration in Portugal on BBC News, and went to bed.
-
 
 #### Day 5: A Quiet Little Town
 
@@ -133,7 +126,6 @@ When we got back to the hotel, I started to watch what I hoped would beu an exci
 
 In the morning they told me that I had missed 'amazing' fireworks over the Wawel. Alas, the land of Nod makes no amends.
 
-
 #### Day 6: To Gdansk and the Baltic Sea
 
 Another train awaited us this morning, an early one, at 9:35. Due to yet more fretting over whether we would make it in time, we left early, and arrived at the train station thirty minutes early. By that point the train hadn't even thought of arriving, let alone done so. The Cracow train station, by the way, is much nicer than the Warsaw one. It even has elevators to all of the platforms, and digital signs showing train arrival times.
@@ -158,10 +150,7 @@ The Netherlands won the night's soccer match against Sweden on penalty kicks. Th
 
 The main discovery of the night came when I found a local phone number I could use for dial-up internet access! It was a momentously joyous occasion, as it would likely enable me to entertain myself in times of boredom and monotony, at least for a while. I just hoped it wouldn't cost too much to be on for hours at a time. I fell asleep shortly after.
 
-
-
 #### Days 7-9: The Astor Lull
-
 
 The rest of the days were spent watching the clouds go by at the Astor Hotel, Jastrzebia Gora, Poland. There wasn't very much to do there, so I spent my time reading, writing this log, watching a few of the movies I brought with me, reading various random websites, going on occasional walks by the sea, listening to music, and watching a couple of the soccer matches.
 
@@ -174,9 +163,6 @@ I saw Full Metal Jacket, The Shawshank Redemption, and The Godfather, all good m
 On one of the days we walked to the most northern point in Poland. There is a large rock, in the form of an obelisk, that proudly proclaims this fact, and gives the present location in degrees longitude and latitude. The rock stands on a pedestal, on which are engraved names of many people, along with places of birth. We couldn't decipher the explanation of who these people were, and this remains a mystery to this day.
 
 I discovered that the hotel had a swimming pool, and so I decided to take advantage of that, having, as usual, not much else to do, and I went there twice. There was also a sauna, which didn't work for some reason. Ah, well, c'etait la vie. Mainly I spent my time waiting for my trip back.
-
-
-
 
 #### Day 10: The Voyage Home
 

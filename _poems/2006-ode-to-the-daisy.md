@@ -37,4 +37,3 @@ year: 2006
     Instead I act on this forlorn day
                                   \ I pick it
                                     \ And it blows away
-

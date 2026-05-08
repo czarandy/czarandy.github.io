@@ -11,4 +11,3 @@ year: 2003
     And appreciation of
     Old resignations should
     Throw indignations away!
-
