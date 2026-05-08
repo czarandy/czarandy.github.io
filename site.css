@@ -38,6 +38,10 @@ h3 {
   margin-bottom: 0.5em;
 }
 
+dd {
+  margin-left: 0;
+}
+
 small {
   color: #757575;
   font-weight: normal;
@@ -106,6 +110,7 @@ small {
 .self-image {
   flex: 0 0 auto;
   order: 2;
+  margin-top: 1.2em;
 }
 
 .self-image img {
@@ -136,12 +141,6 @@ small {
 
 .content-wide {
   max-width: 800px;
-}
-
-/* Lists */
-.list-unstyled {
-  list-style: none;
-  padding-left: 0;
 }
 
 /* Definition list (horizontal) */
