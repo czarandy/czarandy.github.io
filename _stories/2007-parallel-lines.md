@@ -8,7 +8,7 @@ Joseph Sylvestre woke up one morning to the satisfying sound of a car slowly dri
 
 > Dear Joe,
 >
-> Thanks for suggesting the film "The Parlor". I enjoyed watching it very much, and the ending in particular was a surprising twist. It reminded me of an O. Henry short story. I know you don't like to read very much, but perhaps you could try "The Plutonian Fire".one of my favorites. I've found that our communications.these e-mails in particular.have become an increasingly important part of my life. I am still uncomfortable meeting you in person.many of my other friends are unaware of my situation.but perhaps we can arrange something for next Saturday?
+> Thanks for suggesting the film "The Parlor". I enjoyed watching it very much, and the ending in particular was a surprising twist. It reminded me of an O. Henry short story. I know you don't like to read very much, but perhaps you could try "The Plutonian Fire"—one of my favorites. I've found that our communications—these e-mails in particular—have become an increasingly important part of my life. I am still uncomfortable meeting you in person—many of my other friends are unaware of my situation—but perhaps we can arrange something for next Saturday?
 >
 > Your friend,
 > Leonard
@@ -30,13 +30,13 @@ He was about to sit down with a glass of beer as he suddenly had a thought. Jose
 > Excitedly yours,
 > Joseph
 
-Leonard was stuck. He'd have to go.he owed Joseph that much, at least. And he had no one else to turn to. He only hoped no one would recognize him, but what were the chances someone from work would show up to a place like "Birds of a Feather"?
+Leonard was stuck. He'd have to go—he owed Joseph that much, at least. And he had no one else to turn to. He only hoped no one would recognize him, but what were the chances someone from work would show up to a place like "Birds of a Feather"?
 
 <div class="center">* * *</div>
 
-Saturday, at 6:45, Joseph Sylvestre strolled across the park. He was often late but there was no way he would be late for this.not when the stakes were so high. In fact he had rushed out so quickly that he accidentally grabbed his roommate's worn-out beige trench coat. It was no matter. Leonard didn't appear to be so superficial as to be threatened by rough clothing.
+Saturday, at 6:45, Joseph Sylvestre strolled across the park. He was often late but there was no way he would be late for this—not when the stakes were so high. In fact he had rushed out so quickly that he accidentally grabbed his roommate's worn-out beige trench coat. It was no matter. Leonard didn't appear to be so superficial as to be threatened by rough clothing.
 
-He arrived at the café exactly on time, and asked the friendly girl at the counter for a table. He hung his coat on a nearby rack, and sat down to wait for Leonard. Meanwhile he took one of the magazines available to patrons and skimmed it.the cover article was about the difficulty of living with a mental disorder. Joseph wasn't interested.he felt he had enough problems without also worrying about his mental health more than he already did.
+He arrived at the café exactly on time, and asked the friendly girl at the counter for a table. He hung his coat on a nearby rack, and sat down to wait for Leonard. Meanwhile he took one of the magazines available to patrons and skimmed it—the cover article was about the difficulty of living with a mental disorder. Joseph wasn't interested—he felt he had enough problems without also worrying about his mental health more than he already did.
 
 A few minutes later, a waitress came by to take Joseph's order. He asked for a coffee with light cream and no sugar, and waited.
 
@@ -62,7 +62,7 @@ Dr. Jay Gravner was a therapist with three plaques on his wall, four children to
 
 <div class="center">* * *</div>
 
-When Leonard read Joseph's long e-mail, he decided that he definitely needed to see a therapist. For one thing, he completely forgot about their meeting, even though he had been thinking about it throughout Saturday. It was very unusual for Leonard to forget so suddenly; he suspected it was because of stress from work. His annoying colleague James had been irritating him.questioning his odd hours and comings and goings.
+When Leonard read Joseph's long e-mail, he decided that he definitely needed to see a therapist. For one thing, he completely forgot about their meeting, even though he had been thinking about it throughout Saturday. It was very unusual for Leonard to forget so suddenly; he suspected it was because of stress from work. His annoying colleague James had been irritating him—questioning his odd hours and comings and goings.
 
 He shook the thought from his mind. Dr. Gravner's office was just a brisk fifteen minute walk from his apartment, and from what Joseph had said about him he was an excellent therapist. Leonard arrived exactly on time, and checked in with the receptionist. While he waited, he hung his worn-out beige trench coat on the rack and browsed a magazine article about psychiatric disorders. It seemed uninteresting to Leonard. He wondered what would cause someone to pursue such a career.
 

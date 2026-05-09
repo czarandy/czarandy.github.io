@@ -44,7 +44,7 @@ Captain Blackjack reached in a different direction.
 
 Lieutenant Canasta grasped, with his right hand, a conclusion.
 
-"Perhaps, gentlemen, Lieutenant Poker is merely uttering the word .indeed' followed by an extract of the previous sentence," he explained.
+"Perhaps, gentlemen, Lieutenant Poker is merely uttering the word 'indeed' followed by an extract of the previous sentence," he explained.
 
 "Why would he do such a thing?" wondered Sergeant Whist.
 
@@ -56,7 +56,7 @@ Lieutenant Canasta grasped, with his right hand, a conclusion.
 
 "Regardless of the reason," continued Lieutenant Canasta, "I suspect he has not taken the card. I assure you that neither have I. Given that pertinent information, we must conclude that the card is missing of its own accord."
 
-"How can you be worried about such trivial matters? We must first find out why Lieutenant Poker is merely uttering the word .indeed' followed by an extract of the previous sentence," declared Captain Blackjack.
+"How can you be worried about such trivial matters? We must first find out why Lieutenant Poker is merely uttering the word 'indeed' followed by an extract of the previous sentence," declared Captain Blackjack.
 
 "Indeed, followed by an extract of the previous sentence," said Lieutenant Poker.
 
@@ -70,7 +70,7 @@ Captain Blackjack, Lieutenant Canasta, and Sergeant Whist all crashed together, 
 
 "Indeed, they exclaimed," said Lieutenant Poker.
 
-"It appears that Lieutenant Poker has taken the meaning of .the previous sentence' far too literally," noted Captain Blackjack. "Still, we must find that card if we are to play on."
+"It appears that Lieutenant Poker has taken the meaning of 'the previous sentence' far too literally," noted Captain Blackjack. "Still, we must find that card if we are to play on."
 
 "Words are very interesting when used in that way," mused Sergeant Whist. "How did he know, for instance, that we are merely fictional characters in a story?"
 
