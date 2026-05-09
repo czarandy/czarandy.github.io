@@ -108,7 +108,7 @@ small {
 /* Homepage layout */
 .self-image {
   float: right;
-  margin: 32px 0 20px 32px;
+  margin: 16px 0 0 32px;
 }
 
 .self-image img {
