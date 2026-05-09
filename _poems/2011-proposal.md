@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2011
 title: Proposal
+year: 2011
 ---
 
     When I see you my heart it flutters

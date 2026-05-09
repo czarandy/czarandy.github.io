@@ -5,7 +5,7 @@ title: Stories
 
 <div class="content-wide">
   <h1>Stories</h1>
-  <dl class="dl-horizontal">
+  <dl>
     {% assign stories = site.stories | reverse %} {% assign prev_year = 0 %} {%
     for story in stories %} {% if prev_year != story.year %}
     <dt>{{story.year}}</dt>

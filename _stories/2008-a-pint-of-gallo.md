@@ -1,7 +1,7 @@
 ---
 layout: story
-year: 2008
 title: A Pint of Gallo
+year: 2008
 ---
 
 I sat waiting in the _comedore_, watching a group of local kids playing with a beat up soccer ball. Although our appointment was for noon, I thought that Enrique might be late, so I slowly sipped my bottle of Gallo. He finally showed up at two, in obvious disarray, and refused to even sit down. He told me he was afraid, though he refused to reveal anything further. I suggested we walk to my downtown Guatemala City apartment. As if he were too scared to say anything, Enrique nodded. We patiently walked the twelve blocks as I wondered whether I could call him my friend. We had known each other for almost eight years, after all.

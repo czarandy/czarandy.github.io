@@ -1,7 +1,7 @@
 ---
+layout: poem
 title: What A Life We Always Lead
 year: 2003
-layout: poem
 ---
 
     What a life we always lead.

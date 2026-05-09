@@ -1,7 +1,7 @@
 ---
-year: 2004
-title: Poland Journal
 layout: story
+title: Poland Journal
+year: 2004
 ---
 
 #### Day 1: The Flight

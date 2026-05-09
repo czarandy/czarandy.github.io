@@ -1,7 +1,7 @@
 ---
+layout: story
 title: Parallel Lines
 year: 2007
-layout: story
 ---
 
 Joseph Sylvestre woke up one morning to the satisfying sound of a car slowly driving away outside his third-floor apartment window. It was 11:30 AM. He cleverly chose a robe from the eight or so forming his bedroom floor, threw it on, and immediately checked his e-mail. Lo! He quickly found what he sought, and as a mysterious force began to play upon his heartstrings he read.

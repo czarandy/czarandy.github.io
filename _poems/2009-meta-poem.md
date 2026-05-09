@@ -1,7 +1,7 @@
 ---
-year: 2009
-title: Meta Heart Bang Poem
 layout: poem
+title: Meta Heart Bang Poem
+year: 2009
 ---
 
     "True ease in writing comes from art,

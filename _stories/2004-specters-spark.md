@@ -1,7 +1,7 @@
 ---
 layout: story
-year: 2004
 title: The Specter's Spark
+year: 2004
 ---
 
 Torrents of rain. Purely bucketfuls.
@@ -118,7 +118,7 @@ James was on the verge of biting a sweet, delicious piece of this heavenly fruit
 
 "What one does not realize, and perhaps has no reason to do so, is that someone else, someone such as me, was unmistakably evil enough to have put a dose of cyanide in this apple. A small dose, to be sure, but one large enough to kill a man of any considerable size."
 
-"What? You're kidding!" James was shocked, apple still in hand, mouth still open, saliva still dripping from it."
+"What? You're kidding!" James was shocked, apple still in hand, mouth still open, saliva still dripping from it.
 
 He dropped the apple abruptly.
 
@@ -164,7 +164,7 @@ An old face, with a beard, of moderate length. No ordinary beard, though, a whit
 
 "Who are you?"
 
-"They call me Marek, the Mad Monk. but of course, you are tired and yes, yes, of course, you need rest." Come with me.
+"They call me Marek, the Mad Monk. but of course, you are tired and yes, yes, of course, you need rest. Come with me."
 
 James finally decided to check his wound, that horrible incision that had led to all this strangeness. It was notoriously absent. There wasn't a speck of blood on his clothing or any other evidence of the incision. Thoroughly confused, James erroneously decided that he had dreamt it. He found that he was well rested and not at all tired, and after conveying the fact to the strange man, he was invited inside nonetheless.
 

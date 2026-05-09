@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2012
 title: Wordmonger
+year: 2012
 ---
 
     "Try it on," she said,

@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2004
 title: Noblesse Oblige
+year: 2004
 ---
 
     We were potent and powerful, a dignified lot

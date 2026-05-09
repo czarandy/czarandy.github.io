@@ -1,7 +1,7 @@
 ---
+layout: story
 title: Miles Davis and the Trumpet from Heaven
 year: 2019
-layout: story
 ---
 
 My love affair with Miles Davis started with a kiss. Of course I didn't actually

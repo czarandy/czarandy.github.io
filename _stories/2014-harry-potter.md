@@ -1,7 +1,7 @@
 ---
+layout: story
 title: Harry Potter's Return
 year: 2014
-layout: story
 ---
 
 Harry Potter had finally achieved his dream. He had become an Auror. Even several years into the job it hadn't grown old. He still enjoyed unrooting evil wherever it lay. Even if that place happened to be in his office. But he had searched all over again and surprisingly hadn't found any. Ugh. He'd have to return to the paperwork he hadn't finished yet. Who knew that to stop one evil wizard meant at least a week's worth of paperwork. It was almost enough to make him wish he had become a Hogwarts Professor instead. He started to think in more detail about what class he'd teach. Of course it'd have to be Defense Against the Dark Arts. Or maybe he could coach Quidditch. But certainly not Potions. Anything but Potions. He had started to plan out his first year's curriculum when knock on the door interrupted his pleasant daydream.

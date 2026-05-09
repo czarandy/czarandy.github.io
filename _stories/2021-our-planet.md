@@ -1,7 +1,7 @@
 ---
-year: 2021
-title: Our Planet
 layout: story
+title: Our Planet
+year: 2021
 ---
 
 I was born in a lab in Texas. But I didn’t get to enjoy consciousness very long. Just some last-minute tests, and they turned me off right away. It was all a blur.

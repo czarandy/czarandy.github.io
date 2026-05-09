@@ -1,8 +1,6 @@
 ---
 layout: story
-
 title: The Case of the Lost Letter
-
 year: 2012
 ---
 

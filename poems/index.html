@@ -5,7 +5,7 @@ title: Poems
 
 <div class="content-wide">
   <h1>Poems</h1>
-  <dl class="dl-horizontal">
+  <dl>
     {% assign poems = site.poems | reverse %} {% assign prev_year = 0 %} {% for
     poem in poems %} {% if prev_year != poem.year %}
     <dt>{{poem.year}}</dt>

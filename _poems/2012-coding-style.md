@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2012
 title: His Coding Style is Very Queer
+year: 2012
 ---
 
     Who wrote this code I do not know.

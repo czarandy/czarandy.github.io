@@ -1,6 +1,6 @@
 ---
-title: Explication
 layout: poem
+title: Explication
 year: 2003
 ---
 

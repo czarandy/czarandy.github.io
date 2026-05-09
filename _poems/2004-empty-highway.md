@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2004
 title: The Empty Highway
+year: 2004
 ---
 
     The clouds roll by

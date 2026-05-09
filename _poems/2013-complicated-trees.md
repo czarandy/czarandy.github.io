@@ -1,7 +1,7 @@
 ---
 layout: poem
-year: 2013
 title: Complicated Trees
+year: 2013
 ---
 
     I spend my Sunday sitting under an elm tree

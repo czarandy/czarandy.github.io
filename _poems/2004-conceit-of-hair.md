@@ -1,7 +1,7 @@
 ---
+layout: poem
 title: A Conceit of Hair
 year: 2004
-layout: poem
 ---
 
     She dropped a strand of hair

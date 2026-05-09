@@ -1,7 +1,7 @@
 ---
-year: 2023
-title: The Tara Test
 layout: story
+title: The Tara Test
+year: 2023
 ---
 
 Tara was dreading her first assignment at her dream job. She had been so excited to be hired by FreeAI. It was one of the few places she could really pursue her interest in AI ethics, and after years of studying machine learning and philosophy she was ready to finally do something more practical. But couldn’t they have started her off with something a bit easier?

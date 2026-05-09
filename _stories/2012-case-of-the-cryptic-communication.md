@@ -1,6 +1,6 @@
 ---
 layout: story
-title: The Case of the Cryptic Communcation
+title: The Case of the Cryptic Communication
 year: 2012
 ---
 
@@ -11,8 +11,6 @@ Beth was having a very mediocre day. It was yet again one of those researchers. 
 Beth put down the grilled cheese sandwich she was eating for lunch. It would be so much easier if everyone could just follow the rules. She certainly did not enjoy policing behavior; she'd much prefer to just answer questions and be helpful. I just need to get a .bad cop' to partner with, she thought.
 
 After lunch it was back to processing the Edward Teller papers, all six hundred boxes. Teller had been a fellow at the Hoover Institution for over thirty years, and though he was most famous for his work on the Manhattan Project and the hydrogen bomb, the bulk of the papers were from his later career working on energy and defense policy. Boring political stuff. Beth had been working on it for over a month now, and she was more than ready for something new. At least she didn't have to deal with unruly researchers. There was something to be said for working by yourself.
-
-<!--more-->
 
 She was processing intently when an unusual noise startled her. It was the phone. Beth never got calls at work, so it took her four rings before she realized that she should probably answer it.
 

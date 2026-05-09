@@ -1,7 +1,7 @@
 ---
-year: 2023
-title: Circulation
 layout: story
+title: Circulation
+year: 2023
 ---
 
 Ever since my parents died when I was sixteen, I found myself spending every afternoon at the library. Though I felt like I could take care of myself well enough, the law had other ideas, and my grandmother had moved in to look after me. Feeling resentful that she dared to take my parents’ place, I tried to spend as little time at home as I could. So after school let out I would bike over to the dilapidated building on the edge of town to look for a book I could escape into.
