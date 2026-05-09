@@ -24,7 +24,7 @@ year: 2004
     Still I unfazed by sudden drench
     The flurry paddled through
 
-    A billow blew--the battle cry
+    A billow blew—the battle cry
     The waves were up in arms!
     A crash engulfed the tiny speck
     As emptiness wrought harm

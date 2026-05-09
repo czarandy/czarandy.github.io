@@ -51,7 +51,7 @@ Co-written with Corey Valdez.
     "Soon I'm going to be a good spy"
 
     So they finally go to the courtroom
-    The verdict--it could prove our doom
+    The verdict—it could prove our doom
     Because all the countries were ****ed, they say
     They took him there, and they told the tale
     How his spying skills were on a negative scale

@@ -29,7 +29,7 @@ year: 2006
     I rush headlong fantastically
                           \ How to believe my holy luck?
     And gazing down on this last best hope
-                            \ Flora herself--dare I pluck?
+                            \ Flora herself—dare I pluck?
     No time have I to contemplate
                               \ With splendor so apparent
     With thought I would anticipate

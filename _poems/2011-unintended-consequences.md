@@ -36,7 +36,7 @@ title: Unintended Consequences
       To some of the
         Greatest Novels.
 
-    But that was then--
+    But that was then—
       What are contemporary writers to do?
         In this world of cell phones and the internet.
 

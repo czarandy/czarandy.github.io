@@ -7,7 +7,7 @@ layout: poem
 Here is another poem from my high school years. Although it's kind of depressing and I can't say it's my strongest piece of writing (the meter has some obvious issues), I still view it fondly.
 
     The lonely wanderer without a home
-    Has no one--all he's ever known.
+    Has no one—all he's ever known.
     No recollections of the past to guide
     That which he seeks is lost, inside.
 
@@ -16,7 +16,7 @@ Here is another poem from my high school years. Although it's kind of depressing
     And should he venture to where he dwell
     He'll find it hot as any hell.
 
-    Though always suffering--his life defined,
+    Though always suffering—his life defined,
     His face feigns thoughts of a gentle mind.
     Though no one stops, staring straight at him
     He feels the burden of his sin.

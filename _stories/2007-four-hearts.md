@@ -102,7 +102,7 @@ It didn't take long.
 
 "I am referring to Lieutenant Poker's condition," said Lieutenant Canasta.
 
-"How irrelevant!---we are identifying the missing card," said Captain Blackjack.
+"How irrelevant!—we are identifying the missing card," said Captain Blackjack.
 
 "But we've already done that," said Lieutenant Canasta.
 

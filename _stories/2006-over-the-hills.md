@@ -4,7 +4,7 @@ title: Over the Hills and Into Your Heart
 year: 2006
 ---
 
-Beowulf rode his manly steed over the warmly rolling hills. Courage pouring out of every pore, he eyed the landscape uneasily, looking for a foe to vanquish. He finally spotted a field of daffodils, illuminated by the midday sun. The sight caused Beowulf to shake his head in powerful disgust, even as a smile crept strangely onto his face. And so he rode---for hours and days and years and months and weeks and suns and moons.
+Beowulf rode his manly steed over the warmly rolling hills. Courage pouring out of every pore, he eyed the landscape uneasily, looking for a foe to vanquish. He finally spotted a field of daffodils, illuminated by the midday sun. The sight caused Beowulf to shake his head in powerful disgust, even as a smile crept strangely onto his face. And so he rode—for hours and days and years and months and weeks and suns and moons.
 
 "A good amount of each." thought Beowulf.
 
@@ -40,7 +40,7 @@ Suddenly (and without warning!) Beowulf heard the loud stomping of a horse nearb
 
 Head throbbing, body aching, and arms tied to a tree, Yvain awoke. He opened his one uninjured eye to spy the evil ogre placing large firewood into an even larger fire. Not being especially dense, Yvain immediately realized his immediate fate. If he hadn't been gagged, he may have muttered something about how he should have stayed home and babysat instead of going off on this ill-fated escapade. Alas no one was able to hear him. The world will never know.
 
-Yvain had heard somewhere that hope springs eternal in the human breast, and though no such words had been written yet, they were true nonetheless. So he hoped. And as he did, he heard a slight rumbling, at first almost too quiet to hear, but steadily growing, growing louder and stronger. He focused on it so intently that sweating profusely would have been an improvement, and it seemed his whole world revolved around that magical, mystical rumbling---the sound that was his last chance at salvation, at making something more of his life than bachelor chow.
+Yvain had heard somewhere that hope springs eternal in the human breast, and though no such words had been written yet, they were true nonetheless. So he hoped. And as he did, he heard a slight rumbling, at first almost too quiet to hear, but steadily growing, growing louder and stronger. He focused on it so intently that sweating profusely would have been an improvement, and it seemed his whole world revolved around that magical, mystical rumbling—the sound that was his last chance at salvation, at making something more of his life than bachelor chow.
 
 When the mammoth steed erupted into sight word could not express how happy Yvain felt. Upon it rode a warrior whose mightiness was certainly unquestioned. As he rode forward, a wave of rapturous delight poured over Yvain, reminding him of his fictitious younger days as a marlin fisherman off the coast of Cuba.
 
@@ -50,7 +50,7 @@ Yet Beowulf was not deterred! He charged and swung his sword at the stunned mons
 
 <div class="center">* * *</div>
 
-Yvain awoke to find the situation markedly different. First of all, there was giant ogre head flying directly towards him. And he was no longer gagged or tied, though he still tasted the foul cloth the ogre had used. There was something else... something he couldn't quite figure out until---
+Yvain awoke to find the situation markedly different. First of all, there was giant ogre head flying directly towards him. And he was no longer gagged or tied, though he still tasted the foul cloth the ogre had used. There was something else... something he couldn't quite figure out until—
 
 His savior was gone!
 
@@ -76,7 +76,7 @@ Pause.
 
 No response came, and Yvain decided to look for himself. He stood up, stretched his legs and did seven pushups to warm up after all the time spent being captured.
 
-When he finally decided to get back to the story, it was easy to find Beowulf---he had only to follow the smell of rotting garbage, err. "cooked" ogre. At least its arm. It wasn't clear where Beowulf had cooked it, but there he was, clutching a large, nasty ogre arm in his mouth, apparently unconscious.
+When he finally decided to get back to the story, it was easy to find Beowulf—he had only to follow the smell of rotting garbage, err. "cooked" ogre. At least its arm. It wasn't clear where Beowulf had cooked it, but there he was, clutching a large, nasty ogre arm in his mouth, apparently unconscious.
 
 Yvain shook his head and tickled him awake.
 
@@ -94,9 +94,9 @@ Yvain shook his head and tickled him awake.
 
 "I have no doubt of that, after the display you put on. In fact, perhaps you would like to accompany me on my journey? I am on a quest to claim some lands from a group of marauding farmers that think it their duty to grow their own food."
 
-"What? Those fools! It is a wonder they have not yet been slain by the evil ogre that lives in these parts---"
+"What? Those fools! It is a wonder they have not yet been slain by the evil ogre that lives in these parts—"
 
-Yvain interjected, "Actually---"
+Yvain interjected, "Actually—"
 
 "Wait! Let me complete my thought. . violets are blue / the sun is round / and I want to marry you."
 

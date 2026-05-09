@@ -12,7 +12,7 @@ what to do next. But Lisa did. She calmly turned on her favorite music, then sat
 down next to me on the bed. We turned towards each other. At first I was too shy
 to look her in the eyes but there was something in those notes that just
 inspired me. So I went for it. As our lips touched, it felt like an explosion. I
-was sure that this must be what love feels like. But I was wrong--it was the just
+was sure that this must be what love feels like. But I was wrong—it was the just
 first notes of "The Buzzard Song" from Miles's rendition of _Porgy and Bess_.
 
 All of the energy of that song went into that kiss, and the next, and the next.
@@ -90,7 +90,7 @@ sequence then both groups were likely to prove hostile.
 
 Lisa was moved by my ineptitude to forgive her grievances. She caught up to me
 in the hall one day and flat out told me to give up the trumpet, not for her,
-but so I didn't have to repeat the class. I knew she was right--even without the
+but so I didn't have to repeat the class. I knew she was right—even without the
 past few months of practice I was still a far better pianist. But by that point
 she was dating Gary, a ukelelist I despised, and I couldn't admit that I was
 wrong, to her of all people.
@@ -125,7 +125,7 @@ in your wonderful music. If you are in heaven, up there, smiling, can you spare
 some of your inspiration for your most ardent admirer? I just need it for
 tomorrow, for the concert. I know I'll never be one millionth of the musician
 you are, but one millionth is all I need to be to pass that class. I've never
-felt this way about anything or anyone--." I saw quick image of Lisa, walking in
+felt this way about anything or anyone—." I saw quick image of Lisa, walking in
 front of me in her usual white sweater and jeans, looking back to give me a
 smile, but I shrugged it off. "So just grant me that one millionth part and I
 promise I'll be your devoted follower forever," I continued.
@@ -212,13 +212,13 @@ afterwards. I don't remember any from that point on.
 
 "You were sensational." Mom couldn't contain her words as I showed up downstairs
 for breakfast. "I mean I knew you spent a lot of time practicing, but I never
-believed--just amazing. I didn't know what to expect but when I heard those first
+believed—just amazing. I didn't know what to expect but when I heard those first
 notes I felt like I was back at my first Miles Davis concert. I used to be quite
 a jazz aficionado," she said. "When I was younger," she added wistfully.
 
 But I wasn't listening. Sensational? Could it really be? I truly had no memory
 of anything after the glow took me in, but how could I have played that well. I
-had barely strung together two notes in practice--did the prayer really work? But
+had barely strung together two notes in practice—did the prayer really work? But
 I quickly realized that there was something important I had forgotten. Mom was
 still going on about my performance.
 
@@ -264,7 +264,7 @@ been so wrapped up in your own music, you weren't even paying attention."
 
 But I didn't remember any of that.
 
----
+—
 
 The next time I saw Lisa was ten years later. It was after I had finished high
 school with an unimpressive record. After I had gone to college to major in
@@ -278,17 +278,17 @@ I was walking home after work, through a park, a different route than the one I
 would usually take, when I saw her sitting on a bench, reading a book. "Lisa," I
 said, and sat down next to her. She looked over and I saw confusion turn into
 surprise and recognition on her face. She turned to put the book away into her
-bag and I saw a diamond ring on her finger. "Wow," I said, "is that--?" She held
+bag and I saw a diamond ring on her finger. "Wow," I said, "is that—?" She held
 it up for me to see, and immediately I was struck how the light filtering
 through the diamond looked the same as the glow of that trumpet all those years
 ago. "I can't keep it secret anymore," she laughed, "I'm engaged."
 
-"Is it--" I started to ask.
+"Is it—" I started to ask.
 
 "Gary?" she laughed again. "No that was ages ago." She paused. "We were so young
 back then." Another pause. "You know, I never even really liked him."
 
-"But--" I must have given her a strange look.
+"But—" I must have given her a strange look.
 
 She put her hand on my shoulder. "It was always you," she said. Then must have
 realized what she had said and quickly pulled back. "I mean, back then," she
@@ -299,7 +299,7 @@ added.
 "You really hurt me, you must know. I thought it was so special, that first time
 we kissed. But then you started disappearing for days at a time to practice. I
 felt I was losing you. I needed a clean break. But I was so happy it worked out
-for you--at that concert. I wasn't sure I had done the right thing."
+for you—at that concert. I wasn't sure I had done the right thing."
 
 "What are you talking about?" I said.
 

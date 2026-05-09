@@ -100,7 +100,7 @@ The runner was moving so fast that he couldn't stop and he tripped over and fell
 
 "It'll be alright," Beth said. "You can get that window replaced. At least you weren't hurt."
 
-"I just don't understa--" he was interrupted when the object in his hand made a loud noise. Beth immediately recognized it.
+"I just don't understa—" he was interrupted when the object in his hand made a loud noise. Beth immediately recognized it.
 
 "That's for me," she said, and snatched her cellphone from his hand.
 
@@ -122,7 +122,7 @@ Beth didn't think that sounded very comforting. "So what will you do?" she said.
 
 "I'll take the paper in for analysis, and hopefully one of our specialists can make sense of it. There's not much to go on given the mud, but we don't have much else. It was good that you followed him and got the paper back. It's the first clue I've had." Adamek flashed a quick smile. "And let me know if you get any more idea about what the document could be."
 
-After Adamek left Beth realized she had yet to recover from the day's excitement. She spent fifteen minutes sitting outside, composing herself. She hadn't been this excited since last July, but she realized that she wasn't really done yet. She'd still have to figure out what the document was. Otherwise the Yu-Xun agent would just return for another attempt. Another--wait! Suddenly she remembered Wednesday and the researcher that tried to take a photo of the Chiang Kai-shek diaries. Could it be that it was him again?
+After Adamek left Beth realized she had yet to recover from the day's excitement. She spent fifteen minutes sitting outside, composing herself. She hadn't been this excited since last July, but she realized that she wasn't really done yet. She'd still have to figure out what the document was. Otherwise the Yu-Xun agent would just return for another attempt. Another—wait! Suddenly she remembered Wednesday and the researcher that tried to take a photo of the Chiang Kai-shek diaries. Could it be that it was him again?
 
 She hurried back into the archives and checked the record of those who had asked to look at the diaries. There were a few names that appeared both Wednesday and Friday, but with more investigation she found that this was hardly their first time, so they were unlikely to be the agent. It was still possible he used a different name the second time. She found her coworker Amanda, who had taken over her reference shift on Thursday while she had lunch with Adamek. She asked her whether anything unusual happened that day.
 

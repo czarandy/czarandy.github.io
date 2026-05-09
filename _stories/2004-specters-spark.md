@@ -12,7 +12,7 @@ The thought did not please him in the least. And above all Renard saw the fulfil
 
 Always ruthlessly successful, and always miraculously efficient, Renard would make sure this time was not any different. Nature, like everything else, would not delay his plans any more than he could stand, and after five minutes of waiting Renard's patience was thoroughly trashed.
 
-The rain must cease---he commanded it.
+The rain must cease—he commanded it.
 
 And it did.
 
@@ -20,7 +20,7 @@ And it did.
 
 James Beck ran, and he ran, and he ran like hell. He figured it was as good a way to run as any, and since he had no particular place to go it seemed the most straightforward.
 
-Days had passed since he had eaten. At this point it was wishful thinking alone that kept him going. Thoughts of love filled his head. They pulsed and they flowed, and they jittered and danced. James had never been able to direct them towards any single person---he fancied himself not quite singular enough.
+Days had passed since he had eaten. At this point it was wishful thinking alone that kept him going. Thoughts of love filled his head. They pulsed and they flowed, and they jittered and danced. James had never been able to direct them towards any single person—he fancied himself not quite singular enough.
 
 He stopped, and shook the thoughts away. It would not do for them to be here now, he thought. Right now he had to concentrate on the present, on rebuilding his life. Falsely convicted of murder at twenty-one, the justice system had taken twelve years out of the prime of his life.
 
@@ -28,7 +28,7 @@ But he held no ill will towards them. If he had it would have likely translated 
 
 He had finally been released with the admission of new evidence. No one had decided to dash his expectations by apologizing. Legally, he was free. Practically, he had no money, no food, and most importantly no convictions. He had run off in search of them, run off in search of something to do, and all he had found so far was a passion for running and an unfixable love of someone purely theoretical.
 
-It had been hours since he had seen anyone else. The last was a sleeping farmer, hat tilted over his eyes, emitting strangely soothing snoring sounds through distorted nostrils. They reminded James of a story one of his fellow convicts---he hesitated to call them friends---had told him. Like all stories they told each other, it was criminal in nature. The man in question was thoroughly annoyed by the sounds his wife made in her sleep. He had called them cries of the children of Satan, and one night, taken beyond the point of control (which in this man was not a very distant journey, this being his seventh distinct crime) he took the nearest sharp object---a pencil---and stabbed out her tongue.
+It had been hours since he had seen anyone else. The last was a sleeping farmer, hat tilted over his eyes, emitting strangely soothing snoring sounds through distorted nostrils. They reminded James of a story one of his fellow convicts—he hesitated to call them friends—had told him. Like all stories they told each other, it was criminal in nature. The man in question was thoroughly annoyed by the sounds his wife made in her sleep. He had called them cries of the children of Satan, and one night, taken beyond the point of control (which in this man was not a very distant journey, this being his seventh distinct crime) he took the nearest sharp object—a pencil—and stabbed out her tongue.
 
 The thrilling tale was interrupted by someone's sudden cry.
 
@@ -54,7 +54,7 @@ It took him a minute to recollect himself. Of course she wasn't his daughter. He
 
 "But you are just a girl."
 
-"Oh you don't have to treat me like an equal. Just think of me as a daughter---" she giggled, "a surrogate daughter, that is."
+"Oh you don't have to treat me like an equal. Just think of me as a daughter—" she giggled, "a surrogate daughter, that is."
 
 Amelia took his hand and started to lead him on. They walked for while, in silence, and slowly James came to the realization that she knew exactly where she was going. It took him yet more time to realize that he may wish to be privileged to this information as well. He asked her.
 
@@ -72,7 +72,7 @@ Amelia looked at the sign too, but to James it seemed as if she gleaned much mor
 
 "I don't believe that I have ever done anything that one might call 'good'."
 
-"No, of course you haven't. You are, after all mortal, and no one cursed with such a handicap can be expected to do anything purely good. Yet inside of you is some inner---something." She stopped.
+"No, of course you haven't. You are, after all mortal, and no one cursed with such a handicap can be expected to do anything purely good. Yet inside of you is some inner—something." She stopped.
 
 James either didn't need any further explanation or was so thrilled by the apparent compliment that he feared it being undone. They walked further.
 
@@ -108,7 +108,7 @@ And further response was quieted by the sound of footsteps. James turned around 
 
 With this in mind, James could only be surprised when he saw an eminent gentleman, aged considerably. He posed no apparent threat, although his eye held the glint of something silently sinister. It made James uneasy, standing there before this anachronism.
 
-He turned to look at Amelia, muttering something about whether this was the man he was supposed to meet. She was gone. To be sure, James had not the keenest of senses, but he at least felt himself capable of noticing when someone walked out through a closed door---one that likely would have had to have been opened. Before he could contemplate this further, the man decided to introduce himself.
+He turned to look at Amelia, muttering something about whether this was the man he was supposed to meet. She was gone. To be sure, James had not the keenest of senses, but he at least felt himself capable of noticing when someone walked out through a closed door—one that likely would have had to have been opened. Before he could contemplate this further, the man decided to introduce himself.
 
 He threw James an apple. Engrossed in thought, James still managed to catch it, and found it slightly heavier than one might expect. It was gorgeously red, shining amidst the pale darkness of the room as a sign from heaven. In his present condition it took all of James's composure to avoid devouring it immediately; he slowly raised it towards his mouth.
 
@@ -140,7 +140,7 @@ James had never been brave to any appreciable extent, and he didn't have the cou
 
 Sadly, it must be reported that no one will ever know. For the old man, who, had he introduced himself, may very well have said something along the lines of Renard, decided to do something exceedingly sneaky. While James stood stupefied at the sight of the apple, the man pulled out a dagger from some hideous inner recess and plunged it forcefully into James's chest, in a distinctly stab-like motion.
 
-He turned the dagger quickly, relishing the swooshing sound the various entrails made as they were cut clean through. Then, just as suddenly, he removed the dagger---all of this took but a few seconds.
+He turned the dagger quickly, relishing the swooshing sound the various entrails made as they were cut clean through. Then, just as suddenly, he removed the dagger—all of this took but a few seconds.
 
 James's lips moved only enough to emit a loud squeak, as a mouse just smashed in half by an unexpected trap. A distinct thud was emitted as his frail body hit the ground, blood splashing throughout the floor. Two heavy breaths later, and the world faded to black. Renard was not lucky enough to see him die; by this point he had gone, having muttered a single phrase.
 
@@ -148,11 +148,11 @@ James's lips moved only enough to emit a loud squeak, as a mouse just smashed in
 
 <div class="center">* * *</div>
 
-Darkness. His unconscious state precluded him from seeing much else. Although, as James discovered, there are many forms that darkness is liable to take. It is hardly a constant quantity---rather it shifts, ebbs, flows, and worms its way through everything. When there is light then these movements are not readily apparent, but when darkness is the only thing present, then one sees each one of these shifts, sees every little detail in the darkness. The darkness becomes a sea, and James was now swimming in it, its tiny undulations massaging and caressing him.
+Darkness. His unconscious state precluded him from seeing much else. Although, as James discovered, there are many forms that darkness is liable to take. It is hardly a constant quantity—rather it shifts, ebbs, flows, and worms its way through everything. When there is light then these movements are not readily apparent, but when darkness is the only thing present, then one sees each one of these shifts, sees every little detail in the darkness. The darkness becomes a sea, and James was now swimming in it, its tiny undulations massaging and caressing him.
 
 Out of this immeasurable dark, a point of light emerged. At first James thought it was a star, a star appearing in the night sky, to lead him back home (although he wasn't exactly sure where home was or whether he wanted to be there). He then realized that it was the most beautiful point that he had every seen. It shined like the sun, like a million lamps all lit at once, a million sunflowers illuminated, all glowing, all their light and all their beauty combined to form one beautiful spot, one exquisite specimen, one pinprick of perfection. Its light started to spread, slowly at first, then faster, pounding against the darkness, thrusting, and then it broke through and it spread, it spread its life and its beauty and its fantastic splendor, and the darkness was gone. It was gone, and James woke up, and as he did so he came upon an incredible realization.
 
-James was in love. Not with anyone in particular, but with the light, the amazing, orgasmic light, wonderfully, no---spectacularly brilliant. He had never been in love before, and the feeling was delightful, he was wrapped up in it completely and utterly, and all he wanted to do was remain. Yet something was tearing him from it, pulling him away from the light, from all that he ever wanted. What was it? He must stop it! Never had he been so determined; he had lost all his convictions, but they had now returned. He was now focused entirely on his love, and yet he was getting farther, and he could do nothing to stop it.
+James was in love. Not with anyone in particular, but with the light, the amazing, orgasmic light, wonderfully, no—spectacularly brilliant. He had never been in love before, and the feeling was delightful, he was wrapped up in it completely and utterly, and all he wanted to do was remain. Yet something was tearing him from it, pulling him away from the light, from all that he ever wanted. What was it? He must stop it! Never had he been so determined; he had lost all his convictions, but they had now returned. He was now focused entirely on his love, and yet he was getting farther, and he could do nothing to stop it.
 
 Someone was shaking him.
 
@@ -168,11 +168,11 @@ An old face, with a beard, of moderate length. No ordinary beard, though, a whit
 
 James finally decided to check his wound, that horrible incision that had led to all this strangeness. It was notoriously absent. There wasn't a speck of blood on his clothing or any other evidence of the incision. Thoroughly confused, James erroneously decided that he had dreamt it. He found that he was well rested and not at all tired, and after conveying the fact to the strange man, he was invited inside nonetheless.
 
-Inside proved to be a quiet sort of hovel, such as might be used by a hermit, librarian, or---James reeled in fear!---both. It was quaint and cozy, which is to say that it had no positive characteristics, apart from its smallness, which no doubt minimized cleaning time. The lighting was dim, and inside were stacks of books and papers, along with a very, very cluttered writing desk, which had evidently received frequent use.
+Inside proved to be a quiet sort of hovel, such as might be used by a hermit, librarian, or—James reeled in fear!—both. It was quaint and cozy, which is to say that it had no positive characteristics, apart from its smallness, which no doubt minimized cleaning time. The lighting was dim, and inside were stacks of books and papers, along with a very, very cluttered writing desk, which had evidently received frequent use.
 
 "Welcome to my humble abode."
 
-"Look, I don't know who you are, but I want to know one thing---how did I get here?"
+"Look, I don't know who you are, but I want to know one thing—how did I get here?"
 
 "Is this a test? You came here, as I prophesized."
 
@@ -208,7 +208,7 @@ James examined the paper more thoroughly and noticed, at the top, in conspicuous
 
 "So everyone says. but I don't let their negative opinions bring me down. I am the One True Prophet, and though sometimes I detest this curse I still must spread the word of the future to the people."
 
-"Well then, Mr. Prophet---"
+"Well then, Mr. Prophet—"
 
 "Marek, please."
 
@@ -236,13 +236,13 @@ The paper described itself as a Messianic Application Form and asked for very de
 
 "That was easier than a job application, and there's the added perk of being the only applicant."
 
-He smiled. Somewhere deep inside of him something was stirring. It was the goliath that formed his core values, his baseline morality, and the source of his lack of ethical conviction. It was stirring because it had started to be subjected to something new, something radical, and yet something oh so beautiful. It had grown stale and at this time it wanted to believe so much, it wanted to change and shift and adopt, and it would not let James dictate to it what it would change to. No! It would act by itself, and it was ready to adopt any idea that came its way, be it sound, brilliant, or absolutely foolish, and it would take this idea and nurture it, let it grow and bloom until it filled every little bit of James's mind, becoming part of him---no---becoming him, his very essence.
+He smiled. Somewhere deep inside of him something was stirring. It was the goliath that formed his core values, his baseline morality, and the source of his lack of ethical conviction. It was stirring because it had started to be subjected to something new, something radical, and yet something oh so beautiful. It had grown stale and at this time it wanted to believe so much, it wanted to change and shift and adopt, and it would not let James dictate to it what it would change to. No! It would act by itself, and it was ready to adopt any idea that came its way, be it sound, brilliant, or absolutely foolish, and it would take this idea and nurture it, let it grow and bloom until it filled every little bit of James's mind, becoming part of him—no—becoming him, his very essence.
 
 The timing was perfect. Marek had determined at that precise moment to tell James the exact particulars of his religion, and found him surprisingly ready to accept them. He did not worry about the particular cause, instead chalking it up to the mysterious hand of fate and mentally noting to himself to make sure to add a backdated prophecy about it.
 
 Marek began with his own life. How he, as a young monk, fresh out of self-education, had stumbled upon cryptic writing encoded in the shapes of rocks. How he had gathered these rocks, had studied them, taking copious notes, paged upon pages of which were now stacked in this very room. How he had realized that within these rocks hide the prophecies of the future, how he decoded them and wrote them down, until one day, exactly a month before, he had realized that he would play an integral role in the world's future. He would meet the messiah, would educate him, teach him about the true path, and eventually explain to him how to save the world. In short, it was everything a monk could dream of, even one as ambitious as Marek.
 
-Marek knew he didn't have much time (he was, after all, a prophet) and so he briefly summarized the major tenets of his religion, the one that was to take hold over the entire world and be responsible for global salvation. There was a brief synopsis of the history of the world, with a gross amount of artistic license taken, followed by an even briefer morality---killing and disbelieving were verboten, but everything else was up for grabs. The majority of it was a history. He hesitated to call it that, because it was a history of the future, a history of the end of the world. There wasn't time to see it now, he insisted to James, although as the messiah he would of course be able to see it soon enough. More important things were to be done now.
+Marek knew he didn't have much time (he was, after all, a prophet) and so he briefly summarized the major tenets of his religion, the one that was to take hold over the entire world and be responsible for global salvation. There was a brief synopsis of the history of the world, with a gross amount of artistic license taken, followed by an even briefer morality—killing and disbelieving were verboten, but everything else was up for grabs. The majority of it was a history. He hesitated to call it that, because it was a history of the future, a history of the end of the world. There wasn't time to see it now, he insisted to James, although as the messiah he would of course be able to see it soon enough. More important things were to be done now.
 
 "You must go to the village." Marek explained resolutely.
 
@@ -256,7 +256,7 @@ Marek knew he didn't have much time (he was, after all, a prophet) and so he bri
 
 <div class="center">* * *</div>
 
-In fact, the town held a number of disbelievers equal exactly to its population, although James did not suspect this. Their number was only bolstered by his arrival---James was not at all used to believing in himself. Along with the things he did not suspect came a certain sinister figure, whose sinister effects would become apparent all too soon.
+In fact, the town held a number of disbelievers equal exactly to its population, although James did not suspect this. Their number was only bolstered by his arrival—James was not at all used to believing in himself. Along with the things he did not suspect came a certain sinister figure, whose sinister effects would become apparent all too soon.
 
 Miracles. He must create some miracles. Something like the healing of a leper or the turning of water to wine would work, James thought. More importantly, however, he was not assured by Marek's resolve to stay behind. There had to be a reason that he lived several miles away from anybody else, and it surely was not only his lack of proper hygiene. No, something much more sinister had to be at work, and James was on the verge of discovering it. He teetered over the edge, about to make the final jump to some conclusion deep below.
 
@@ -278,7 +278,7 @@ He spied what looked like a guard standing at the edge of the village.
 
 "Who is to say that? Our lives as happy as we make them, and if we do not wish to be troubled by anything then why should we be?"
 
-James struggled to explain. "I bring you religion---"
+James struggled to explain. "I bring you religion—"
 
 "Religion? There was a monk, many months ago, who tried to bring us religion. He claimed that the end of the world was coming, and that we had best prepare. He told us all we had to do was believe and we would be saved. Marek was his name.
 
@@ -286,7 +286,7 @@ James struggled to explain. "I bring you religion---"
 
 "We welcome all strangers. You may stay and revel in our beautiful society, but know this: if you attempt to spread the lies you claim are your religion you will be exiled. We cannot tolerate such an imbalance in our society."
 
-James was not yet so full of faith in himself to argue the point. He acquiesced, and promised not to preach. The guard then told him that in the evening they would be having a celebration---the year's fertility festival. All the villagers would revel in the beautiful bounty of life. James was of course invited, and he promised to attend.
+James was not yet so full of faith in himself to argue the point. He acquiesced, and promised not to preach. The guard then told him that in the evening they would be having a celebration—the year's fertility festival. All the villagers would revel in the beautiful bounty of life. James was of course invited, and he promised to attend.
 
 For he was not one to renounce his messianic status so easily, and the festival provided the perfect event for a miracle. He had never performed one before, but was certain he would be able to. Who could doubt him once they had seen what he was able to do? Renown would be his, and he may even save the world while at it. Not once did he consider what effect this would have on the town.
 
@@ -310,7 +310,7 @@ Throughout all this James had been standing to the side, waiting for the perfect
 
 "Listen, my brothers! I have come to reveal the truth to all of you. Do not show me scorn before I have had a chance to prove myself. Watch," he paused to consider what he would do, "watch me turn the water you are drinking into wine!"
 
-It was hardly original, but then there were no sick to heal, no sea to part, and no demons to cast out. So he settled for something he could do, under the circumstances. He only hoped that the miracle would work---he'd never known exactly how it was they were done. He now stood silently, waiting to see what reaction he had produced.
+It was hardly original, but then there were no sick to heal, no sea to part, and no demons to cast out. So he settled for something he could do, under the circumstances. He only hoped that the miracle would work—he'd never known exactly how it was they were done. He now stood silently, waiting to see what reaction he had produced.
 
 At first, the only discernable look on the faces of the villagers was bemusement. They had never seen a spectacle quite like this, and verily none of them, save perhaps the guard, understood its importance. Then one of them chanced to look at the cup he was drinking from.
 
@@ -336,7 +336,7 @@ Into the forest he fled.
 
 <div class="center">* * *</div>
 
-Despite his prior fears, James did not find the forest dangerous at all. Naturally, when he first started running through it, he was petrified. Yet he was soon saved---James quickly took on the assumption that the villagers would not follow him into the forest, for whatever reason messiahs make these kinds of assumptions. After twenty minutes of this mildly-hectic pace, James was weary. He slowed down to a slight saunter, and took in the breathtaking beauty of the pines surrounding him, and, incidentally, blocking off any sunlight. He soon realized that the pines were not at all spectacular, and that their main purpose must have been to annoy him with a dull darkness. He sat down to rest, and closed his eyes.
+Despite his prior fears, James did not find the forest dangerous at all. Naturally, when he first started running through it, he was petrified. Yet he was soon saved—James quickly took on the assumption that the villagers would not follow him into the forest, for whatever reason messiahs make these kinds of assumptions. After twenty minutes of this mildly-hectic pace, James was weary. He slowed down to a slight saunter, and took in the breathtaking beauty of the pines surrounding him, and, incidentally, blocking off any sunlight. He soon realized that the pines were not at all spectacular, and that their main purpose must have been to annoy him with a dull darkness. He sat down to rest, and closed his eyes.
 
 Fire! It came in a flash, engulfing the entirety of his vision. James opened his eyes. Around him was a calm forest, full of pines and devoid of any movement. He chalked it up to stress, and tried to nap again.
 
@@ -352,7 +352,7 @@ Footsteps threw him away from this fantasy.
 
 <div class="center">* * *</div>
 
-In front of James stood the love of his life. She was a woman in her mid-twenties, very attractive, and clad in very strange attire for an arboreal traveler---it was something resembling a Victorian dress. He was not at all sure who she was, nor was he sure whether or not he had seen her before---he had the distinct impression that they had met in a dream, but he couldn't be certain.
+In front of James stood the love of his life. She was a woman in her mid-twenties, very attractive, and clad in very strange attire for an arboreal traveler—it was something resembling a Victorian dress. He was not at all sure who she was, nor was he sure whether or not he had seen her before—he had the distinct impression that they had met in a dream, but he couldn't be certain.
 
 Nonetheless he was in love. It was clear to him now what those prior visions of light amidst darkness had represented. He had been in love with her ever since being released from prison, yet it was only now that he had met her. A lesser man may have found it unbelievably strange, but James, recently empowered by his career change, took it in stride, and decided to introduce himself.
 
@@ -368,11 +368,11 @@ She looked at him, a smile starting to appear on her face. James, not a doubt in
 
 "My name is Amelia."
 
-Suddenly, memories of a past acquaintance, which had been made very recently but of whom James had completely forgotten flooded his mind. She was, of course, a young girl---his daughter.
+Suddenly, memories of a past acquaintance, which had been made very recently but of whom James had completely forgotten flooded his mind. She was, of course, a young girl—his daughter.
 
 "Do I know you?"
 
-"No. We have never met. You say you are the messiah---how can you be so sure?"
+"No. We have never met. You say you are the messiah—how can you be so sure?"
 
 "I was told by a very notable prophet. He has foreseen the end of the world, and it is up to me to save everyone, by having them accept and believe in me. I have yet to succeed, however."
 
@@ -388,7 +388,7 @@ James was unfazed by this initial success. "That is all very good, but I want mo
 
 "How can I prove myself?"
 
-"You are the messiah. You were born to save the world. I can feel the end coming soon, and it is up to you to stop it. When you have succeeded---and only then---you will have my love, and the gratitude of millions."
+"You are the messiah. You were born to save the world. I can feel the end coming soon, and it is up to you to stop it. When you have succeeded—and only then—you will have my love, and the gratitude of millions."
 
 "But what must I do? And when?"
 
@@ -410,15 +410,15 @@ She moved in closer, and they embraced.
 
 James awoke next to a pile of trash, his head resting on a worn book.
 
-He was disoriented. All he could remember was the beautiful woman, her soft, silken lips---was it a dream? It couldn't have been, it was too real. He grabbed the book he was laying on. It was filled with flowing handwriting. The cover said "Dies Irae" and was signed "Marek".
+He was disoriented. All he could remember was the beautiful woman, her soft, silken lips—was it a dream? It couldn't have been, it was too real. He grabbed the book he was laying on. It was filled with flowing handwriting. The cover said "Dies Irae" and was signed "Marek".
 
 Evidence! He hadn't been dreaming.
 
 James looked around; the setting seemed dreamily familiar. It reminded him of a region of his peaceful hometown, which he hadn't been to in years. He stood up and noticed that there was some commotion coming from down the street. Perhaps they had heard of his arrival; had been waiting to see and hear the messiah.
 
-He walked past dilapidated houses and closed-down stores. Surely this was not how he remembered the town of his youth, with its bustling streets and lively neighborhoods. Yet it is unmistakably the same place. He even remembered how to get to his home---all he had to do was turn at the next intersection.
+He walked past dilapidated houses and closed-down stores. Surely this was not how he remembered the town of his youth, with its bustling streets and lively neighborhoods. Yet it is unmistakably the same place. He even remembered how to get to his home—all he had to do was turn at the next intersection.
 
-He saw the crowd, a large one for this small town, gathering around a podium. A man was speaking---James assumed he was the mayor. He was saying something about a recently-arrived treasure, someone whom everyone would want to speak to and meet. In short, James decided, it was him.
+He saw the crowd, a large one for this small town, gathering around a podium. A man was speaking—James assumed he was the mayor. He was saying something about a recently-arrived treasure, someone whom everyone would want to speak to and meet. In short, James decided, it was him.
 
 Assuming that he would be shortly announced to speak, he started to walk towards the podium. As he reached the short steps leading up to it, he heard the mayor announce his name. James Beck had never sounded better.
 
@@ -442,7 +442,7 @@ He was marked clinically insane and relegated to spend the rest of his lives in 
 
 James spent all his free time reading the book he had woken up with. The two were inseparable, and it got to the point where James could recite passages of it from memory.
 
-Yet each time he read it he would get the same tingling in his bones, and he would remember the sight of the burning cities, the screaming people. He would know that he had failed them, that he could no longer save the world. This thought tormented him daily even more than the thought of the deaths---it represented his failure to achieve anything. Nevertheless, it was bearable.
+Yet each time he read it he would get the same tingling in his bones, and he would remember the sight of the burning cities, the screaming people. He would know that he had failed them, that he could no longer save the world. This thought tormented him daily even more than the thought of the deaths—it represented his failure to achieve anything. Nevertheless, it was bearable.
 
 Then one day James chanced to read the name tag that his nurse wore. It read: "Amelia".
 
