@@ -125,6 +125,7 @@ small {
 
 .nav li a:hover {
   color: var(--color-text);
+  text-decoration: underline;
 }
 
 .nav li.active a {
