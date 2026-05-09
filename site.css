@@ -110,7 +110,7 @@ small {
 .self-image {
   flex: 0 0 auto;
   order: 2;
-  margin-top: 1.2em;
+  margin-top: 32px;
 }
 
 .self-image img {
