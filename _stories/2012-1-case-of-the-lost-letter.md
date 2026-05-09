@@ -8,11 +8,11 @@ year: 2012
 
 It was a Thursday, just like any other day. That is, until the police showed up.
 
-Beth had been walking casually back to her office after lunch. She didn't immediately suspect anything out of the ordinary&mdash;it was just another sunny July afternoon. The campus did seem quieter than usual, though given that it was summer she thought it was probably just the absence of students.
+Beth had been walking casually back to her office after lunch. She didn't immediately suspect anything out of the ordinary—it was just another sunny July afternoon. The campus did seem quieter than usual, though given that it was summer she thought it was probably just the absence of students.
 
 As she walked into the courtyard next to her building, Beth got her first indication that this was not just a typical day. It came in the form of a crowd of people talking animatedly to several police officers. She approached the scene cautiously, curious but at the same time concerned that something serious had happened that she didn't want to get involved with. As she got closer she could finally make out what the detective talking to the crowd was saying.
 
-"&hellip;throughout the day, and we ask that you stay away from the crime scene for the next few days. I know this will affect your work, but we are dealing with something very serious. You may want to contact an attorney&hellip;"
+"…throughout the day, and we ask that you stay away from the crime scene for the next few days. I know this will affect your work, but we are dealing with something very serious. You may want to contact an attorney…"
 
 Beth stopped listening and started to walk away slowly. Perhaps it would be best to leave now, she thought. But as she turned around a police officer stood in front of her, blocking her path.
 
@@ -20,11 +20,11 @@ Beth stopped listening and started to walk away slowly. Perhaps it would be best
 
 Beth felt her heart racing. Obviously something serious had happened but she had no idea what it was. Certainly the police would know she had nothing to do with it. They couldn't suspect her, could they?
 
-"O&hellip;kay", she stammered out.
+"O…kay", she stammered out.
 
 "If you please, this way ma'am." The police officer led her to another building, which apparently had been cleared out for police use. They went inside into an office room, and the officer asked her if she wanted a drink (she declined) or a donut (she accepted) and told her it would be a few minutes.
 
-Beth's mind raced. Should she get a lawyer? What would the police ask her? How did she end up in this place? Just this morning she had been working on a collection of papers from&mdash;gah! she couldn't even remember it now. She took a deep breath. In any case it couldn't have anything to do with anything illegal. Beth was an archivist; her work was to look through historical materials to organize and describe them. It was a relaxed job, where nothing really urgent or stressful occurred. At least until today.
+Beth's mind raced. Should she get a lawyer? What would the police ask her? How did she end up in this place? Just this morning she had been working on a collection of papers from—gah! she couldn't even remember it now. She took a deep breath. In any case it couldn't have anything to do with anything illegal. Beth was an archivist; her work was to look through historical materials to organize and describe them. It was a relaxed job, where nothing really urgent or stressful occurred. At least until today.
 
 The door opened. The detective she had seen earlier entered. She looked older up close, and her eyes glowed with an energy that suggested she didn't normally investigate such exciting crimes.
 
@@ -54,7 +54,7 @@ She kept scribbling furiously. There's no way she's only writing what I've been 
 
 Adamek smiled. "Relax," she said. "You aren't a suspect. I'm just trying to understand what's going on. What were you working on this morning?"
 
-Beth prepared to answer this question, then realized she still couldn't remember. It seemed ridiculous that she should forget what she had been working on just two hours earlier. She again worried about seeming suspicious. "The Williamson Evers papers," was the first thing that came to mind. She knew that wasn't right though, she had finished those weeks ago. What was she really doing? It was right on the tip of her tongue&hellip;
+Beth prepared to answer this question, then realized she still couldn't remember. It seemed ridiculous that she should forget what she had been working on just two hours earlier. She again worried about seeming suspicious. "The Williamson Evers papers," was the first thing that came to mind. She knew that wasn't right though, she had finished those weeks ago. What was she really doing? It was right on the tip of her tongue…
 
 Adamek finally stopped scribbling. "All right," she said. "I don't have any more questions for you at this time. If you think of anything else, please give me a call." She handed Beth her card. "Officer Kalis will take down your contact information as you leave. Thank you for your assistance."
 
@@ -66,9 +66,9 @@ As soon as she was done with the police, Beth went outside and sat on a bench ne
 
 Amanda looked at her quizzically. "What do you mean?" she said, "You don't know what happened?"
 
-"No, I just showed up here after lunch and the police took me in immediately for questioning. I assume there was some crime&hellip; was it serious?"
+"No, I just showed up here after lunch and the police took me in immediately for questioning. I assume there was some crime… was it serious?"
 
-"They found&hellip; a body."
+"They found… a body."
 
 Beth was stunned. "Someone died?"
 
@@ -94,7 +94,7 @@ The phone was still ringing. She finally picked it up, not recognizing the calle
 
 "Hello. Is this Beth Goder?" A familiar voice. It was Detective Adamek. "I hope this isn't a bad time."
 
-"No, I was just catching up on my sleep." Beth heard an odd sound&mdash;a suppressed laugh perhaps? "How can I help you?"
+"No, I was just catching up on my sleep." Beth heard an odd sound—a suppressed laugh perhaps? "How can I help you?"
 
 "Well, I was going over yesterday's notes on the Stewart murder, and I just had a few more questions to ask you. If you don't mind, I could stop by your house this afternoon?"
 
@@ -108,7 +108,7 @@ It was getting on to lunchtime, but her appetite was completely drained. Instead
 
 Four hours later she was still thinking about the case, and yet Adamek hadn't showed up. She called up Amanda to ask her if she too had been contacted by the police.
 
-"What? No&hellip; I haven't heard from them since they interviewed me yesterday," Amanda said. "You say they are coming over soon to ask you about the case? I wonder what they think you know."
+"What? No… I haven't heard from them since they interviewed me yesterday," Amanda said. "You say they are coming over soon to ask you about the case? I wonder what they think you know."
 
 "I'm worried they think of me as a suspect. I don't know why they would think I had anything to do with it. There's no way I would ever commit violence like that! You do believe me, don't you?"
 
@@ -126,13 +126,13 @@ Beth forced a laugh. "I'm just trying to understand yesterday's events."
 
 "Hmm, well I do remember that he was carrying a stack of papers that had some Chinese characters on them, as well as English text. I couldn't see what they were about."
 
-The mention of China caused Beth a jolt. There was something here, something that she knew was important. If only she could remember what she had been working on the day before. There was something&hellip;
+The mention of China caused Beth a jolt. There was something here, something that she knew was important. If only she could remember what she had been working on the day before. There was something…
 
 "Wait, do you remember if there was a picture on one of the documents?"
 
 "A picture? What do you mean? What kind of picture?"
 
-Beth almost had it now. If only she could remember what she was working on that morning. Then&mdash;a knock at the door. "I've got to go," she said, "the detective is here."
+Beth almost had it now. If only she could remember what she was working on that morning. Then—a knock at the door. "I've got to go," she said, "the detective is here."
 
 She hung up and answered the door. Detective Adamek was obviously dressed in the same clothes as the day before. She must have had a long night. Yet the passion in her eyes was if anything stronger than the last time Beth saw her.
 
@@ -170,7 +170,7 @@ She was only half paying attention when she saw something that made her realize 
 
 The campus was spooky. Beth had never been here after dark, let alone past midnight, and the silence was almost ghostly. But Beth was determined. She knew that she had to act quickly. And so the only sounds in the night were the footsteps of one small archivist trying to save the world.
 
-She found the door to the archive locked, as she expected. There was always a small hope in the back of her mind, but now she realized she'd have to start doing something she'd never done before. She paced carefully around the outside of the building, looking for something, anything that would let her inside. She'd made it halfway around, until&mdash;yes! a window that was unlatched. She pried it open and climbed inside.
+She found the door to the archive locked, as she expected. There was always a small hope in the back of her mind, but now she realized she'd have to start doing something she'd never done before. She paced carefully around the outside of the building, looking for something, anything that would let her inside. She'd made it halfway around, until—yes! a window that was unlatched. She pried it open and climbed inside.
 
 It was dark. Beth had forgotten to bring a flashlight. It was too risky to turn all the lights on; there might still be some police nearby guarding the crime scene. At first she tried inching along in the dark carefully. This certainly saved her from bumping into anything, but she realized that by the time she actually found anything it would be day. And she had to hurry and find the copy machine well before then.
 
@@ -182,7 +182,7 @@ As Beth turned the corner she heard a sound. A footstep? A cough? Was there some
 
 "Is somebody here?" a voice called out. "This is a crime scene. You shouldn't be here."
 
-Beth continued creeping around the edge of the room as the light slowly followed her. She finally reached the door she had been searching for, pulled on the handle and click!&mdash;it was locked. The police officer certainly heard that and the footsteps started moving faster. She had no way out now, but she turned the handle with one last attempt, and it opened. It must have just jammed. She darted outside, closing the door behind her. The police officer surely heard that. She ran, never stopping or looking back.
+Beth continued creeping around the edge of the room as the light slowly followed her. She finally reached the door she had been searching for, pulled on the handle and click!—it was locked. The police officer certainly heard that and the footsteps started moving faster. She had no way out now, but she turned the handle with one last attempt, and it opened. It must have just jammed. She darted outside, closing the door behind her. The police officer surely heard that. She ran, never stopping or looking back.
 
 Once she got home she quickly glanced at the paper she had been clenching. At the bottom there was a drawing of two swords clashing, one of them surrounded by flames. Beth smiled, then collapsed on her bed and slept.
 
@@ -258,4 +258,4 @@ Beth arrived at work smiling. All the talk was about how quickly the police had 
 
 She went to her desk and reopened the box she had been working on. On top was the Chushi Gangdruk flag that was the source of her discovery. It was crazy that her story was actually accurate; she had always felt it to be such a leap, but had acted on it for want of a little adventure. She had always thought it strange that anyone would kill for a piece of artwork. Now that she looked at it though, there was a certain charm to the design. It represented a group that fought for what they believed in, and knew their goals and their enemies. The world was much less clear now.
 
-The art itself was very skillfully done. As Beth looked at the flag more closely something unusual caught her eye. In the bottom right corner there was some kind of symbol&hellip;
+The art itself was very skillfully done. As Beth looked at the flag more closely something unusual caught her eye. In the bottom right corner there was some kind of symbol…

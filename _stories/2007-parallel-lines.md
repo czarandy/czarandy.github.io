@@ -48,7 +48,7 @@ And waited.
 
 Dr. Jay Gravner was a therapist with three plaques on his wall, four children to his name, and five divorces to his credit. One of those was the reason that Joseph had been seeing him for a dozen years. Dr. Gravner knew that Joseph had a recent infatuation with a man he met on the internet. Yet he didn't realize just how swiftly that had turned into heartbreak. Joseph began their weekly session in tears.
 
-"Jay, he &hellip; he &hellip; didn't show up! I waited for over two hours and he never showed up. Why would he do this to me?" Joseph said.
+"Jay, he … he … didn't show up! I waited for over two hours and he never showed up. Why would he do this to me?" Joseph said.
 
 "Wait a minute: you asked him to meet you? And he agreed?"
 
@@ -56,9 +56,9 @@ Dr. Jay Gravner was a therapist with three plaques on his wall, four children to
 
 "Didn't you say that he was afraid of his coworkers finding out? Perhaps he met one along the way. In any case I think he has bigger problems than just this. I would suggest to him that he see a competent therapist, such as me."
 
-"Oh, Jay, that's a great idea. I'm sure that you can sort things out for him. He's probably just confused&hellip; oh I shouldn't have been so forward. But yes, I'll definitely tell him."
+"Oh, Jay, that's a great idea. I'm sure that you can sort things out for him. He's probably just confused… oh I shouldn't have been so forward. But yes, I'll definitely tell him."
 
-"That's very good, Joseph. Now, let's return to your mother&hellip;"
+"That's very good, Joseph. Now, let's return to your mother…"
 
 <div class="center">* * *</div>
 

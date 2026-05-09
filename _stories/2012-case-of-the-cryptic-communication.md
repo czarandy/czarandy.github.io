@@ -8,7 +8,7 @@ year: 2012
 
 Beth was having a very mediocre day. It was yet again one of those researchers. They just never seemed to follow the rules. While Beth was at the reference desk, he had been looking at the Chiang Kai-shek diaries and had tried to take a photo of one of the pages. This was something they explicitly didn't allow. When she confronted him, he claimed not to have known, though Beth thought that rather unlikely. They allowed taking notes, so there wasn't much advantage to making a copy. Unless you were lazy.
 
-Beth put down the grilled cheese sandwich she was eating for lunch. It would be so much easier if everyone could just follow the rules. She certainly did not enjoy policing behavior; she'd much prefer to just answer questions and be helpful. I just need to get a .bad cop' to partner with, she thought.
+Beth put down the grilled cheese sandwich she was eating for lunch. It would be so much easier if everyone could just follow the rules. She certainly did not enjoy policing behavior; she'd much prefer to just answer questions and be helpful. I just need to get a 'bad cop' to partner with, she thought.
 
 After lunch it was back to processing the Edward Teller papers, all six hundred boxes. Teller had been a fellow at the Hoover Institution for over thirty years, and though he was most famous for his work on the Manhattan Project and the hydrogen bomb, the bulk of the papers were from his later career working on energy and defense policy. Boring political stuff. Beth had been working on it for over a month now, and she was more than ready for something new. At least she didn't have to deal with unruly researchers. There was something to be said for working by yourself.
 
@@ -136,11 +136,11 @@ She hurried back into the archives and checked the record of those who had asked
 
 "And do you remember what he was looking for?" Beth asked.
 
-"Not exactly. I think it was in one of the diaries from 1947 or .48. But I'm not sure." She suddenly gave Beth an odd look. "Why are you so interested in that?" she asked.
+"Not exactly. I think it was in one of the diaries from 1947 or '48. But I'm not sure." She suddenly gave Beth an odd look. "Why are you so interested in that?" she asked.
 
 "I've had a few run-ins like this myself this week. I was just trying to see if it was the same person. But it looks like they were different. What a coincidence." Beth forced a laugh. "I hope it goes more smoothly next week. See you later."
 
-She immediately went outside to call Adamek. She told her about someone named .David Fields' trying to get a copy from one of the Chiang Kai-shek diaries from 1947 or 1948. Adamek said that she wasn't familiar with that alias, but that the agent likely had many, so it was certainly possible that it was him.
+She immediately went outside to call Adamek. She told her about someone named 'David Fields' trying to get a copy from one of the Chiang Kai-shek diaries from 1947 or 1948. Adamek said that she wasn't familiar with that alias, but that the agent likely had many, so it was certainly possible that it was him.
 
 "What are you going to do next?" Beth asked her, deathly curious.
 
