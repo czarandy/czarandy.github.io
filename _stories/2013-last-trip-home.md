@@ -4,7 +4,7 @@ title: The Last Trip Home
 year: 2013
 ---
 
-###### _This story was written by my dad, Dimitry._
+_This story was written by my dad, Dimitry._
 
 "Welcome aboard!" says a flight attendant as I am crossing the gap between the jet-way and a plane taking a step inside. I lift my eyes and see a tall blond woman, welcoming me and smiling, in her blue uniform and bright yellow scarf, which contrasts with the dimmed interior lights of the Airbus. She greets me with a slight German accent as if to remind me of my destination—I am on a late night flight to Munich. I have just spent an hour wandering around an empty airport. Not many passengers had decided to fly on this dark and rainy Wednesday night. There was no line at the gate, and I am not surprised to find a half empty plane.
 
