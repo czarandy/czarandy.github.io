@@ -1,7 +1,6 @@
 document.querySelectorAll('.toggleCourses').forEach(function (btn) {
   btn.addEventListener('click', function () {
-    document.querySelector(this.getAttribute('data-toggle')).style.display =
-      'block';
+    document.querySelector(this.getAttribute('data-toggle')).style.display = 'block';
     this.style.display = 'none';
   });
 });

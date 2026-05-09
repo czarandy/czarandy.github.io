@@ -6,8 +6,8 @@ title: Stories
 <div class="content-wide">
   <h1>Stories</h1>
   <dl>
-    {% assign stories = site.stories | reverse %} {% assign prev_year = 0 %} {%
-    for story in stories %} {% if prev_year != story.year %}
+    {% assign stories = site.stories | reverse %} {% assign prev_year = 0 %} {% for story in stories %} {% if prev_year
+    != story.year %}
     <dt>{{story.year}}</dt>
     {% assign prev_year = story.year %} {% endif %}
     <dd><a href="{{site.baseurl}}{{story.url}}">{{story.title}}</a></dd>
