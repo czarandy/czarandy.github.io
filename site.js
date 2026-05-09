@@ -1,11 +1,12 @@
-document.querySelectorAll('.toggleCourses').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    document.querySelector(this.getAttribute('data-toggle')).style.display = 'block';
+document.querySelectorAll('.toggleCourses').forEach(function (btn) {
+  btn.addEventListener('click', function () {
+    document.querySelector(this.getAttribute('data-toggle')).style.display =
+      'block';
     this.style.display = 'none';
   });
 });
 
-document.querySelectorAll('.footnote').forEach(function(el, idx) {
+document.querySelectorAll('.footnote').forEach(function (el, idx) {
   var num = idx + 1;
   document.querySelector('.footnotes-header').style.display = 'block';
   var li = document.createElement('li');

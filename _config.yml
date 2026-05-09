@@ -1,7 +1,7 @@
 title: Andrey Goder
-description: "Personal website of Andrey Goder — software engineer, writer, and reader."
-url: "https://www.andreygoder.com"
-baseurl: ""
+description: 'Personal website of Andrey Goder — software engineer, writer, and reader.'
+url: 'https://www.andreygoder.com'
+baseurl: ''
 encoding: utf-8
 markdown: kramdown
 collections:

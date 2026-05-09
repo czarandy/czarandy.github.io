@@ -25,13 +25,17 @@
   }
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:
+    system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   font-size: 16px;
   line-height: 1.6;
   color: var(--color-text);
@@ -282,6 +286,7 @@ blockquote footer {
   text-decoration: underline;
 }
 
-#umCourses, #davisCourses {
+#umCourses,
+#davisCourses {
   display: none;
 }
