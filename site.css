@@ -4,7 +4,6 @@
   --color-text-muted: #444;
   --color-text-blockquote: #424242;
   --color-bg: #ffffff;
-  --color-bg-surface: #fff;
   --color-bg-navbar: #f1f4f7;
   --color-link: #0064e0;
   --color-border: #ddd;
@@ -18,7 +17,6 @@
     --color-text-muted: #aaafb5;
     --color-text-blockquote: #bdbdbd;
     --color-bg: #1f1f22;
-    --color-bg-surface: #1e1e1e;
     --color-bg-navbar: #111112;
     --color-link: #3e9efb;
     --color-border: #333;
@@ -143,7 +141,6 @@ small {
 .self-image img {
   width: 200px;
   height: auto;
-  background: var(--color-bg-surface);
   border-radius: 50%;
 }
 
@@ -195,10 +192,7 @@ dl dt {
 
 /* Image utilities */
 .img-thumb {
-  border: 1px solid var(--color-border);
-  padding: 4px;
-  border-radius: 4px;
-  background: var(--color-bg-surface);
+  border-radius: 8px;
   max-width: 100%;
   height: auto;
 }
@@ -210,7 +204,7 @@ dl dt {
 }
 
 .img-thumb.hero {
-  margin-top: 23px;
+  margin-block: 16px;
 }
 
 .figure.portrait {
@@ -220,8 +214,7 @@ dl dt {
 .figure {
   border: 1px solid var(--color-border);
   padding: 4px;
-  border-radius: 4px;
-  background: var(--color-bg-surface);
+  border-radius: 8px;
   margin: 10px;
 }
 
