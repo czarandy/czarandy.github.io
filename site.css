@@ -106,35 +106,22 @@ small {
 }
 
 /* Homepage layout */
-.about-section {
-  display: flex;
-  gap: 32px;
-}
-
 .self-image {
-  flex: 0 0 auto;
-  order: 2;
-  margin-top: 32px;
+  float: right;
+  margin: 32px 0 20px 32px;
 }
 
 .self-image img {
-  width: 50%;
-  max-width: 280px;
+  width: 200px;
   height: auto;
   background: #fff;
   border-radius: 50%;
 }
 
-.about-blurb {
-  flex: 1;
-}
-
 @media (max-width: 767px) {
-  .about-section {
-    flex-direction: column;
-  }
   .self-image {
-    order: 0;
+    float: none;
+    margin: 0 0 20px 0;
   }
 }
 
