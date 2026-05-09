@@ -144,13 +144,9 @@ small {
 }
 
 /* Definition list (horizontal) */
-dl.dl-horizontal dt {
+dl dt {
   font-weight: 600;
   margin-top: 0.5em;
-}
-
-dl.dl-horizontal dd {
-  margin-left: 1em;
 }
 
 /* Experience list */
