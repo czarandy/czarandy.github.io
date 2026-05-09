@@ -1,3 +1,32 @@
+:root {
+  color-scheme: light dark;
+  --color-text: #0a1317;
+  --color-text-muted: #444;
+  --color-text-blockquote: #424242;
+  --color-bg: #ffffff;
+  --color-bg-surface: #fff;
+  --color-bg-navbar: #f1f4f7;
+  --color-link: #0064e0;
+  --color-border: #ddd;
+  --color-border-navbar: #e6eaee;
+  --color-border-blockquote: #e0e0e0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: #dfe2e5;
+    --color-text-muted: #aaafb5;
+    --color-text-blockquote: #bdbdbd;
+    --color-bg: #1f1f22;
+    --color-bg-surface: #1e1e1e;
+    --color-bg-navbar: #111112;
+    --color-link: #3e9efb;
+    --color-border: #333;
+    --color-border-navbar: #444;
+    --color-border-blockquote: #444;
+  }
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
 }
@@ -7,12 +36,12 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  color: #212121;
-  background: #fafafa;
+  color: var(--color-text);
+  background: var(--color-bg);
 }
 
 a {
-  color: #1565c0;
+  color: var(--color-link);
   text-decoration: none;
 }
 
@@ -47,7 +76,7 @@ dd {
 }
 
 small {
-  color: #757575;
+  color: var(--color-text-muted);
   font-weight: normal;
 }
 
@@ -59,8 +88,8 @@ small {
 
 /* Navbar */
 .navbar {
-  background: #f5f5f5;
-  border-bottom: 1px solid #e0e0e0;
+  background: var(--color-bg-navbar);
+  border-bottom: 1px solid var(--color-border-navbar);
   padding: 0 15px;
   display: flex;
   align-items: center;
@@ -70,14 +99,14 @@ small {
 .navbar-brand {
   font-size: 18px;
   font-weight: 500;
-  color: #212121;
+  color: var(--color-text);
   padding: 15px 15px 15px 0;
   margin-right: 10px;
   text-decoration: none;
 }
 
 .navbar-brand:hover {
-  color: #212121;
+  color: var(--color-text);
   text-decoration: none;
 }
 
@@ -92,16 +121,16 @@ small {
 .nav li a {
   display: block;
   padding: 15px 12px 13px;
-  color: #757575;
+  color: var(--color-text-muted);
   text-decoration: none;
 }
 
 .nav li a:hover {
-  color: #212121;
+  color: var(--color-text);
 }
 
 .nav li.active a {
-  color: #212121;
+  color: var(--color-text);
   font-weight: 500;
 }
 
@@ -114,7 +143,7 @@ small {
 .self-image img {
   width: 200px;
   height: auto;
-  background: #fff;
+  background: var(--color-bg-surface);
   border-radius: 50%;
 }
 
@@ -155,8 +184,8 @@ dl dt {
 .quotes blockquote {
   margin: 1em 0 0 1em;
   padding: 0 0 0 15px;
-  border-left: 3px solid #e0e0e0;
-  color: #424242;
+  border-left: 3px solid var(--color-border-blockquote);
+  color: var(--color-text-blockquote);
   font-size: inherit;
 }
 
@@ -166,10 +195,10 @@ dl dt {
 
 /* Image utilities */
 .img-thumb {
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border);
   padding: 4px;
   border-radius: 4px;
-  background: #fff;
+  background: var(--color-bg-surface);
   max-width: 100%;
   height: auto;
 }
@@ -189,10 +218,10 @@ dl dt {
 }
 
 .figure {
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border);
   padding: 4px;
   border-radius: 4px;
-  background: #fff;
+  background: var(--color-bg-surface);
   margin: 10px;
 }
 
@@ -217,7 +246,7 @@ dl dt {
 .figure .caption {
   padding: 4px 8px;
   font-size: 14px;
-  color: #757575;
+  color: var(--color-text-muted);
   text-align: center;
 }
 
@@ -231,13 +260,13 @@ dl dt {
 blockquote {
   margin: 1em 0 1em 1em;
   padding: 0 0 0 15px;
-  border-left: 3px solid #e0e0e0;
-  color: #424242;
+  border-left: 3px solid var(--color-border-blockquote);
+  color: var(--color-text-blockquote);
 }
 
 blockquote footer {
   font-size: 14px;
-  color: #757575;
+  color: var(--color-text-muted);
   margin-top: 0.5em;
 }
 
@@ -250,7 +279,7 @@ blockquote footer {
   background: none;
   border: none;
   padding: 0;
-  color: #1565c0;
+  color: var(--color-link);
   font-size: 14px;
   cursor: pointer;
 }
