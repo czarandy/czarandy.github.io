@@ -1,0 +1,3 @@
+- Broken link to `/random/mantashev.jpg` in _stories/2014-ancient-photograph.md (line 17) — file doesn't exist
+- Broken link to old WordPress URL `http://andreygoder.com/wp-content/uploads/2014/06/pozoev.png` in same story (line 43)
+- No custom 404.html page
