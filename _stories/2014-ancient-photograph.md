@@ -6,7 +6,7 @@ year: 2014
 
 My grandfather Georgiy Goder wrote these notes at the request of my uncle Alexey. They describe some of the history of the people pictured and their relationship to my grandfather's life. I wanted to make the contents more accessible, so I have translated his notes into English and added some explanatory footnotes. You can see the original text in Russian <a href="{{site.baseurl}}/assets/ancientphotographrussian.pdf">here</a>.
 
-<img src="{{site.baseurl}}/images/ancient-photograph.jpg" class="img-thumb center-block" style="margin-top: 23px;" width="500" height="425" alt="Family photograph from the 1890s in Tbilisi" />
+<img src="{{site.baseurl}}/images/ancient-photograph.jpg" class="img-thumb center-block hero" width="500" height="425" alt="Family photograph from the 1890s in Tbilisi" />
 
 When I first looked at the people pictured in the photograph, all of whom have long since passed from this world, and started to think about what to write about each of them, I was struck with an immense worry as the melancholy remembrances came back to my mind. I really don't know who would be interested in them; perhaps only those in whom flows the blood of our shared ancestors. Nevertheless, let me begin my tale.
 
@@ -84,7 +84,7 @@ My mom went to work at the newly-opened Chamber Theatre (1914), where she played
 
 My mother's first husband was the artist V. Roberg. I don't know anything about Roberg or about why my mother divorced him. Another better-known painter, Pavel Kuznetzov, painted "A Portret of the Actress E. V. Pozoeva". In Soviet times Kuznetzov had fallen out of favor, being criticized for "aestheticism" and "formalism". My mother's portrait was hidden in the vaults of an art museum in Yerevan<span class="footnote">The museum referred to here is now the National Gallery of Armenia, a name it got after Armenia became independent in 1991.</span>. In the summer of 1949 I first visited Yerevan, and I stopped at the house of my mother's friend Ruben Grigoryevich Drampyan, who had founded that museum. When we went to the museum he introduced me to the painter Martiros Saryan<span class="footnote">Martiros Saryan (1880-1972) was the founder of the Armenian national school of painting.</span>. He said to me, "Would you like me to ask them to bring the portrait of your mother?" "Will they listen to you?" I replied. My question, addressed to a world famous painter, was naive and silly. Indeed the painting was brought forth immediately, and they placed it on the floor against a wall so that I could examine the portrait of my mother.<span class="footnote">I found a photo of the painting, from when it was shown at an exhibition in the fall of 2010 at the Pushkin Museum of Fine Arts (the premier museum of European art in Moscow).</span>
 
-<div class="figure center-block" style="width: 270px;">
+<div class="figure center-block portrait">
 <img src="{{site.baseurl}}/images/e-v-pozoev.jpg" width="270" height="300" alt="A Portrait of the Actress E. V. Pozoev" />
 <div class="caption">
 A Portrait of the Actress E. V. Pozoev

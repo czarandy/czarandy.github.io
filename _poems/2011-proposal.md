@@ -12,7 +12,7 @@ title: Proposal
     Your fair blond locks they dance and sparkle
     Over a face that smiles bright like the sun
     Unburdened grace your moves so artful
-    My litte zor I love you like no one
+    My little zor I love you like no one
 
     After the years we've spent together
     Roads have we travelled down and mountains crossed

@@ -42,6 +42,10 @@ dd {
   margin: 0;
 }
 
+.experience-header {
+  margin-top: 0;
+}
+
 small {
   color: #757575;
   font-weight: normal;
@@ -165,7 +169,8 @@ dl dt {
 }
 
 .story blockquote,
-.poem blockquote {
+.poem blockquote,
+.quotes blockquote {
   margin: 1em 0 0 1em;
   padding: 0 0 0 15px;
   border-left: 3px solid #e0e0e0;
@@ -191,6 +196,14 @@ dl dt {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.img-thumb.hero {
+  margin-top: 23px;
+}
+
+.figure.portrait {
+  width: 270px;
 }
 
 .figure {

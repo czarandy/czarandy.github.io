@@ -84,11 +84,11 @@ Captain Blackjack took charge, of a conclusion.
 
 "Indeed, you were a card," said Lieutenant Poker, but this time no one heard him.
 
-"Perhaps to frolic with other cards," ventured Sergeant Poker.
+"Perhaps to frolic with other cards," ventured Sergeant Whist.
 
 "But we have the other fifty-one cards," said Captain Blackjack.
 
-"Not the jokers," said Sergeant Poker.
+"Not the jokers," said Sergeant Whist.
 
 "No respectable card would want to be seen with them," said Lieutenant Canasta. "I think we must first determine exactly which card is missing."
 
