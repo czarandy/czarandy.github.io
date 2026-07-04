@@ -7,6 +7,6 @@
       text { fill: white; }
     }
   </style>
-  <rect width="32" height="32" />
+  <rect width="32" height="32" rx="8" />
   <text x="16" y="23" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="middle">AG</text>
 </svg>
