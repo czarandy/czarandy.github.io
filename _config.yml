@@ -2,6 +2,12 @@ title: Andrey Goder
 description: 'The personal website of Andrey Goder, including professional background, education, and selected writing.'
 url: 'https://www.andreygoder.com'
 baseurl: ''
+author:
+  name: Andrey Goder
+social:
+  name: Andrey Goder
+  links:
+    - https://github.com/czarandy
 encoding: utf-8
 markdown: kramdown
 collections:
