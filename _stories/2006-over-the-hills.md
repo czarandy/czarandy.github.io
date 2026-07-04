@@ -2,6 +2,7 @@
 layout: story
 title: Over the Hills and Into Your Heart
 year: 2006
+description: A playful fantasy story about knights, quests, romance, and the hazards of heroic expectations.
 ---
 
 Beowulf rode his manly steed over the warmly rolling hills. Courage pouring out of every pore, he eyed the landscape uneasily, looking for a foe to vanquish. He finally spotted a field of daffodils, illuminated by the midday sun. The sight caused Beowulf to shake his head in powerful disgust, even as a smile crept strangely onto his face. And so he rode—for hours and days and years and months and weeks and suns and moons.

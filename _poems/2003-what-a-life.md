@@ -2,6 +2,7 @@
 layout: poem
 title: What A Life We Always Lead
 year: 2003
+description: A short reflective poem about joy, deception, and the future.
 ---
 
     What a life we always lead.

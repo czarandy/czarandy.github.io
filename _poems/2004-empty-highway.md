@@ -2,6 +2,7 @@
 layout: poem
 title: The Empty Highway
 year: 2004
+description: A poem about clouds, a crying child, and the difficulty of knowing what matters.
 ---
 
     The clouds roll by

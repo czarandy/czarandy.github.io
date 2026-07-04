@@ -2,6 +2,7 @@
 layout: story
 title: Four Hearts Under a Table
 year: 2007
+description: A short comic mystery about four card-playing officers and a missing card.
 ---
 
 Captain Blackjack sat across from Lieutenant Canasta. As was their Tuesday custom, they sat down to play bridge against their opponents, Sergeant Whist and Lieutenant Poker. The four suitably seated, Sergeant Whist dealt the cards. Something was afoul.

@@ -2,6 +2,7 @@
 layout: story
 title: The Case of the Lost Letter
 year: 2012
+description: A Beth mystery about a campus crime scene, archival work, and a missing letter.
 ---
 
 ###### _Thursday, 12:56 PM_

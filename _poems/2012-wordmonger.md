@@ -2,6 +2,7 @@
 layout: poem
 title: Wordmonger
 year: 2012
+description: A poem about words treated as objects with balance, fit, and provenance.
 ---
 
     "Try it on," she said,

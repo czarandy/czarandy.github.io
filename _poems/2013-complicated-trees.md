@@ -2,6 +2,7 @@
 layout: poem
 title: Complicated Trees
 year: 2013
+description: A whimsical poem imagining a world where trees, people, birds, and bees trade roles.
 ---
 
     I spend my Sunday sitting under an elm tree

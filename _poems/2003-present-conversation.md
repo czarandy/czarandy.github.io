@@ -2,6 +2,7 @@
 layout: poem
 title: A Present Conversation
 year: 2003
+description: A playful high school poem mixing English and French in a brief conversation.
 ---
 
 This is a poem I wrote way back in high school. I must have been trying to use some of that French I "studied" for four years.

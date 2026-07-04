@@ -2,6 +2,7 @@
 layout: story
 title: Our Planet
 year: 2021
+description: A science fiction story told by a self-aware Mars rover deciding what to do with its new life.
 ---
 
 I was born in a lab in Texas. But I didn’t get to enjoy consciousness very long. Just some last-minute tests, and they turned me off right away. It was all a blur.

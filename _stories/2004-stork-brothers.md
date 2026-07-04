@@ -2,6 +2,7 @@
 layout: story
 title: The Stork Brothers
 year: 2004
+description: A story about twin brothers from Soviet Russia who are sent to America and begin very different lives.
 ---
 
 There were two brothers by the name of Mechtov. They were twins, and were as identical as any two people can possibly be. Growing up in Soviet Russia in the 1960s, their family did not have very much, especially since they lived in a tiny village of just over a thousand people. They spent their childhood interested in everything—there was seemingly no end to their curiosity. They would spend hours collecting everything of value around—rocks, leaves, twigs, hunks of old bread—and would examine and explore them. Everyone that knew them said from the day they were born that they would make excellent scientists.

@@ -2,6 +2,7 @@
 layout: story
 title: The Case of the Cryptic Communication
 year: 2012
+description: A Beth mystery about an archivist, the Edward Teller papers, and an unexpected coded message.
 ---
 
 ###### _Wednesday, 12:23 PM_

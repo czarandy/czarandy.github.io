@@ -2,6 +2,7 @@
 layout: poem
 title: The Forum
 year: 2003
+description: A high school poem about noise, inanity, and the forum of insanity.
 ---
 
 Here is another poem I wrote in high school. And there's a good chance that high school was exactly what I was writing about.

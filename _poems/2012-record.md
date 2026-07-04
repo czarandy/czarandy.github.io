@@ -2,6 +2,7 @@
 layout: poem
 title: Record
 year: 2012
+description: A poem about names, music, history, and the meanings carried by a record.
 ---
 
     Names are important

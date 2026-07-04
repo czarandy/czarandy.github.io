@@ -2,6 +2,7 @@
 layout: poem
 title: Ballad of an Applicant
 year: 2004
+description: A ballad-like poem about a solitary voyage across a changing sea.
 ---
 
     Alone on empty waves of blue

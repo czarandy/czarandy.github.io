@@ -2,6 +2,7 @@
 layout: poem
 title: The Lonely Wanderer
 year: 2003
+description: A somber poem about a homeless wanderer searching through loneliness and memory.
 ---
 
 Here is another poem from my high school years. Although it's kind of depressing and I can't say it's my strongest piece of writing (the meter has some obvious issues), I still view it fondly.

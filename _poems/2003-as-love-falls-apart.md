@@ -2,6 +2,7 @@
 layout: poem
 title: As Love Falls Apart
 year: 2003
+description: A melancholy poem about love, distance, and the loss of certainty.
 ---
 
     They said that love would conquer all.

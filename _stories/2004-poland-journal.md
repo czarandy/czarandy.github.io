@@ -2,6 +2,7 @@
 layout: story
 title: Poland Journal
 year: 2004
+description: A travel journal about flying to Warsaw and exploring Poland in 2004.
 ---
 
 #### Day 1: The Flight

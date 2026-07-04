@@ -2,6 +2,7 @@
 layout: poem
 title: What is Love?
 year: 2004
+description: A poem asking what love means to flowers, birds, stars, and people.
 ---
 
     What is love to a flower?

@@ -2,6 +2,7 @@
 layout: story
 title: Miles Davis and the Trumpet from Heaven
 year: 2019
+description: A story about love, music, and the lifelong pull of Miles Davis.
 ---
 
 My love affair with Miles Davis started with a kiss. Of course I didn't actually

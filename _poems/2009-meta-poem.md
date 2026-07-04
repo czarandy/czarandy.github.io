@@ -2,6 +2,7 @@
 layout: poem
 title: Meta Heart Bang Poem
 year: 2009
+description: A self-aware poem about poetry, influence, and trying to find the right motif.
 ---
 
     "True ease in writing comes from art,

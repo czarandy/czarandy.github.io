@@ -2,6 +2,7 @@
 layout: poem
 title: Unintended Consequences
 year: 2011
+description: A poem about intercepted letters, literary echoes, and unexpected consequences.
 ---
 
     Miranda is sent a letter

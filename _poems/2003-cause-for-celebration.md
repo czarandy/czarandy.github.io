@@ -2,6 +2,7 @@
 layout: poem
 title: A Cause for Celebration
 year: 2003
+description: A short satirical poem about expectations, congratulations, and political disappointment.
 ---
 
     Our congratulations today!

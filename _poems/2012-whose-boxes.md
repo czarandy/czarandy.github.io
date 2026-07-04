@@ -2,6 +2,7 @@
 layout: poem
 title: Whose Boxes These Are I Think I Know
 year: 2012
+description: An archival parody poem about boxes, finding aids, and processing old papers.
 ---
 
 For Beth.

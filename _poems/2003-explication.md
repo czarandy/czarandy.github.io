@@ -2,6 +2,7 @@
 layout: poem
 title: Explication
 year: 2003
+description: A poem about reading, interpretation, and searching for meaning in a text.
 ---
 
 This is a poem I wrote during my travails in AP English. It's got some issues with meter, which I tried to patch up now (but you'll see I didn't quite succeed). But at least it gets the message across.

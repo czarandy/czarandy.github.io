@@ -2,6 +2,7 @@
 layout: story
 title: The Specter's Spark
 year: 2004
+description: A comic fantasy story about Renard, a ruthless man whose command over the weather reveals stranger powers.
 ---
 
 Torrents of rain. Purely bucketfuls.

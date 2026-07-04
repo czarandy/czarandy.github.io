@@ -2,6 +2,7 @@
 layout: poem
 title: Ode to the Daisy
 year: 2006
+description: A winter poem about discovering a daisy in a barren, snowy landscape.
 ---
 
     Amidst the barren landscape

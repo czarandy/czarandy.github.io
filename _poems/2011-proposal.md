@@ -2,6 +2,7 @@
 layout: poem
 title: Proposal
 year: 2011
+description: A romantic poem written as a proposal and declaration of love.
 ---
 
     When I see you my heart it flutters

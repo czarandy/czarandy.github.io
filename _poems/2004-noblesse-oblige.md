@@ -2,6 +2,7 @@
 layout: poem
 title: Noblesse Oblige
 year: 2004
+description: A satirical poem about power, privilege, and condescending charity.
 ---
 
     We were potent and powerful, a dignified lot

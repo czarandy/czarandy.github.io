@@ -2,6 +2,7 @@
 layout: story
 title: The Last Trip Home
 year: 2013
+description: A reflective story about memory, regret, and returning to sell a childhood apartment.
 ---
 
 _This story was written by my dad, Dimitry._

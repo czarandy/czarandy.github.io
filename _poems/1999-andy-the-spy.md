@@ -2,6 +2,7 @@
 layout: poem
 title: Andy the Spy
 year: 1999
+description: A comic narrative poem, co-written with Corey Valdez, about a spy named Andy G.
 ---
 
 Co-written with Corey Valdez.

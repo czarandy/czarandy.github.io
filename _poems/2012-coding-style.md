@@ -2,6 +2,7 @@
 layout: poem
 title: His Coding Style is Very Queer
 year: 2012
+description: A programming parody poem about debugging bad code and chasing a memory leak.
 ---
 
     Who wrote this code I do not know.
