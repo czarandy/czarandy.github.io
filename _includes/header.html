@@ -11,7 +11,7 @@
     <nav class="navbar" aria-label="Main navigation">
       <a class="navbar-brand" href="{{site.baseurl}}/">Andrey Goder</a>
       <ul class="nav">
-        <li {% if page.title == 'About Me' %}class="active"{% endif %}>
+        <li {% if page.url == '/' %}class="active"{% endif %}>
           <a href="{{site.baseurl}}/">About Me</a>
         </li>
         <li {% if page.title == 'Quotes' %}class="active"{% endif %}>
