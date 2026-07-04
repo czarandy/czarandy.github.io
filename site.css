@@ -287,6 +287,10 @@ dl dt {
   width: 16px;
 }
 
+.contact p {
+  margin: 4px 0;
+}
+
 /* Blockquote (outside .story) */
 blockquote {
   margin: 1em 0 1em 1em;
