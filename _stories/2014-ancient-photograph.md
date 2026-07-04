@@ -3,6 +3,7 @@ layout: story
 title: An Ancient Photograph
 year: 2014
 description: A translated family history built around an 1890s photograph from Tbilisi and the lives behind it.
+image: /images/ancient-photograph.jpg
 ---
 
 My grandfather Georgiy Goder wrote these notes at the request of my uncle Alexey. They describe some of the history of the people pictured and their relationship to my grandfather's life. I wanted to make the contents more accessible, so I have translated his notes into English and added some explanatory footnotes. You can see the original text in Russian <a href="{{site.baseurl}}/assets/ancientphotographrussian.pdf">here</a>.
