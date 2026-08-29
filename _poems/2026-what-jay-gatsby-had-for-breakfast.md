@@ -28,4 +28,3 @@ description: A 'poem a clef' inspired by The Great Gatsby
     It spills all over the eggs
     He was just about to take another bite
     Suddenly he isn’t hungry anymore
-
